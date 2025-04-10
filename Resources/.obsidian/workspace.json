@@ -11,17 +11,14 @@
             "id": "ec0256dc74e7165f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "GFX/UI.canvas",
-                "viewState": {
-                  "x": 1199.5,
-                  "y": 100,
-                  "zoom": -2.969247342668241
-                }
+                "file": "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "UI"
+              "icon": "lucide-file",
+              "title": "Complete Unity 3D Developer Design & Develop Games in Unity 6 using C"
             }
           }
         ]
@@ -173,9 +170,14 @@
   },
   "active": "ec0256dc74e7165f",
   "lastOpenFiles": [
+    "Tutorials/Programming/Link collection.md",
+    "Resource Sources.md",
+    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
+    "GFX/UI.canvas",
+    "Tutorials/Programming",
+    "Tutorials",
     "GFX/UI.png",
     "UI.png",
-    "GFX/UI.canvas",
     "GameDev/GameDev Resources.md",
     "Welcome.md",
     "GFX/UI/40 Cute Portraits 32x32.png",
@@ -186,7 +188,6 @@
     "GFX/UI/GUI - Wooden.png",
     "GFX/UI/Fantasy Game Ranks V.1.png",
     "GFX/UI/Gold Game Ranks.png",
-    "GFX/UI/MMRPG UI Skils Tree.png",
     "GameDev/GFX/Mobile Game GUI Pack 02.md",
     "GameDev/GFX/UI.md",
     "GFX/UI",
