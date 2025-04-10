@@ -11,14 +11,17 @@
             "id": "ec0256dc74e7165f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
-                "mode": "preview",
-                "source": true
+                "file": "GFX/UI.canvas",
+                "viewState": {
+                  "x": -1436.8724295506474,
+                  "y": 524.4791507996954,
+                  "zoom": -0.5354086453811353
+                }
               },
-              "icon": "lucide-file",
-              "title": "Complete Unity 3D Developer Design & Develop Games in Unity 6 using C"
+              "icon": "lucide-layout-dashboard",
+              "title": "UI"
             }
           }
         ]
@@ -170,10 +173,12 @@
   },
   "active": "ec0256dc74e7165f",
   "lastOpenFiles": [
+    "GFX/Card Game Template Pack.md",
+    "GFX/Creature Cards.md",
+    "GFX/UI.canvas",
+    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
     "Tutorials/Programming/Link collection.md",
     "Resource Sources.md",
-    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
-    "GFX/UI.canvas",
     "Tutorials/Programming",
     "Tutorials",
     "GFX/UI.png",
