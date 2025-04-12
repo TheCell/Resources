@@ -4,27 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4eec2741566c19",
+        "id": "16a8dfb104869c2d",
         "type": "tabs",
         "children": [
           {
-            "id": "ec0256dc74e7165f",
+            "id": "be51ca2f986e0261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFX/Notes/KayKit - Character Animations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "847d61b01b659095",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GFX/Resources/gun assets.png"
+              }
+            }
+          },
+          {
+            "id": "53bd7c0b737674ca",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GFX/Assets.canvas",
+                "viewState": {
+                  "x": 3172.9602760623716,
+                  "y": -54.24793321299639,
+                  "zoom": -1.8214228835545068
+                }
+              }
+            }
+          },
+          {
+            "id": "1020fc148aa902db",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "GFX/UI.canvas",
                 "viewState": {
-                  "x": -1436.8724295506474,
-                  "y": 524.4791507996954,
-                  "zoom": -0.5354086453811353
+                  "x": 413.17738866450395,
+                  "y": 100,
+                  "zoom": -2.7803176802248335
                 }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "UI"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -43,11 +79,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -62,9 +95,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -72,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -97,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameDev/GFX/Mobile Game GUI Pack 02.md",
+                "file": "GFX/Assets.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +134,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Mobile Game GUI Pack 02"
+              }
             }
           },
           {
@@ -116,12 +143,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameDev/GFX/Mobile Game GUI Pack 02.md",
+                "file": "GFX/Assets.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Mobile Game GUI Pack 02"
+              }
             }
           },
           {
@@ -131,12 +156,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -145,13 +166,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameDev/GFX/Mobile Game GUI Pack 02.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Mobile Game GUI Pack 02"
+                "file": "GFX/Assets.canvas"
+              }
             }
           }
         ]
@@ -171,31 +187,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec0256dc74e7165f",
+  "active": "53bd7c0b737674ca",
   "lastOpenFiles": [
-    "GFX/Card Game Template Pack.md",
-    "GFX/Creature Cards.md",
+    "GFX/illu32.md",
+    "GFX/Assets.canvas",
+    "GFX/Notes/rune generator.md",
+    "GFX/Shaders.canvas",
+    "GFX/Resources/gun assets.png",
+    "GFX/Notes/KayKit - Character Animations.md",
+    "GFX/Resources/illu32 2.png",
+    "GFX/Resources/illu32 1.png",
+    "GFX/Notes/gun assets.md",
+    "GFX/Notes/Lambda Rogue Tileset is a 1-bit 12x12px tileset charset.md",
+    "GFX/Notes/Tiny Creatures.md",
+    "GFX/Resources/rune generator 2.png",
+    "GFX/Resources/rune generator 1.png",
     "GFX/UI.canvas",
+    "GFX/Notes/pixelart gamepad ui pack.md",
+    "GFX/Notes/MRMO-BRIK.md",
+    "GFX/Resources/pixelart gamepad ui pack 2.png",
+    "GFX/Resources/pixelart gamepad ui pack 1.png",
+    "GFX/Resources/MRMO-BRIK.jpg",
+    "GFX/Resources/retro master shader.md",
+    "GFX/Resources/retro master shader.png",
+    "GFX/Resources/KayKit - Character Animations 1.png",
+    "GFX/Notes/tranquil tunnel.md",
+    "GFX/Notes/KayKit Resource Bits.md",
+    "GFX/Notes/KayKit Block Bits.md",
+    "GFX/Notes/Modular Sci-Fi MEGAKIT.md",
+    "GFX/Notes/Tiny Treats - House Plants set.md",
+    "GFX/Notes/Card Game Template Pack.md",
+    "GFX/Notes/Creature Cards.md",
+    "GFX/Notes",
     "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
     "Tutorials/Programming/Link collection.md",
     "Resource Sources.md",
     "Tutorials/Programming",
     "Tutorials",
-    "GFX/UI.png",
-    "UI.png",
     "GameDev/GameDev Resources.md",
     "Welcome.md",
-    "GFX/UI/40 Cute Portraits 32x32.png",
-    "GFX/UI/Game coins and gems pack.png",
-    "GFX/UI/60 RPG Spells and Ability icons.png",
-    "GFX/UI/Spells and Ability icons.png",
-    "GFX/UI/Loading Bars.png",
-    "GFX/UI/GUI - Wooden.png",
-    "GFX/UI/Fantasy Game Ranks V.1.png",
-    "GFX/UI/Gold Game Ranks.png",
     "GameDev/GFX/Mobile Game GUI Pack 02.md",
     "GameDev/GFX/UI.md",
-    "GFX/UI",
+    "GFX/Resources",
     "GFX",
     "GameDev"
   ]

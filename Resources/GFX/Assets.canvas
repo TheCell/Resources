@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"64320046a0493be5","x":3284,"y":-1282,"width":3156,"height":2411,"type":"group","label":"Palettes"},
+		{"id":"2dc6725976330650","type":"group","x":-400,"y":-1840,"width":2000,"height":2220,"label":"Low Poly"},
+		{"id":"9c93532ed0e2a0ac","type":"group","x":-516,"y":538,"width":1916,"height":1182,"label":"Tiles"},
+		{"id":"8f83f4851bcf5664","type":"group","x":-1907,"y":-418,"width":1087,"height":878,"label":"Sci-Fi"},
+		{"id":"79eaad2c0a550d9e","type":"file","file":"GFX/Notes/rune generator.md","x":1873,"y":168,"width":400,"height":400},
+		{"id":"c6811b554c2bb156","type":"file","file":"GFX/Notes/KayKit Block Bits.md","x":-347,"y":-209,"width":400,"height":400},
+		{"id":"d90605bd99e1bba3","type":"file","file":"GFX/Notes/KayKit Resource Bits.md","x":120,"y":-209,"width":400,"height":400},
+		{"id":"16757686aa1d09b2","type":"file","file":"GFX/Notes/Tiny Treats - House Plants set.md","x":640,"y":-209,"width":400,"height":400},
+		{"id":"9114e98e363a16f9","type":"file","file":"GFX/Notes/Modular Sci-Fi MEGAKIT.md","x":-1860,"y":-380,"width":400,"height":400},
+		{"id":"f6beead4c03d21ff","type":"file","file":"GFX/Notes/gun assets.md","x":1800,"y":-380,"width":400,"height":400},
+		{"id":"e91891c61bc949e9","type":"file","file":"GFX/Notes/MRMO-BRIK.md","x":1160,"y":-209,"width":400,"height":400},
+		{"id":"933a5155c361427b","type":"file","file":"GFX/Notes/KayKit - Character Animations.md","x":-347,"y":-720,"width":400,"height":400},
+		{"id":"d68ede415aa78277","type":"file","file":"GFX/Notes/tranquil tunnel.md","x":17,"y":608,"width":400,"height":400},
+		{"id":"c995afcbfe4c7c06","type":"file","file":"GFX/Notes/Tiny Creatures.md","x":-460,"y":620,"width":400,"height":400},
+		{"id":"3843b11adb78de0d","type":"file","file":"GFX/Notes/Lambda Rogue Tileset is a 1-bit 12x12px tileset charset.md","x":520,"y":620,"width":400,"height":400},
+		{"id":"2049f2aad892ddd4","x":3400,"y":-1200,"width":400,"height":400,"type":"file","file":"GFX/illu32.md"}
+	],
+	"edges":[]
+}
