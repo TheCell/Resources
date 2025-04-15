@@ -8,43 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be51ca2f986e0261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GFX/Notes/KayKit - Character Animations.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "847d61b01b659095",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GFX/Resources/gun assets.png"
-              }
-            }
-          },
-          {
-            "id": "53bd7c0b737674ca",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GFX/Assets.canvas",
-                "viewState": {
-                  "x": 1336.1135371175935,
-                  "y": 258.91065102092375,
-                  "zoom": -1.3903536261337446
-                }
-              }
-            }
-          },
-          {
             "id": "456ce81501bafce6",
             "type": "leaf",
             "state": {
@@ -53,7 +16,9 @@
                 "file": "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Complete Unity 3D Developer Design & Develop Games in Unity 6 using C"
             }
           },
           {
@@ -64,11 +29,41 @@
               "state": {
                 "file": "GFX/UI.canvas",
                 "viewState": {
-                  "x": 413.17738866450395,
-                  "y": 100,
-                  "zoom": -2.7803176802248335
+                  "x": 4.990267846604127,
+                  "y": -886.1819292966985,
+                  "zoom": -1.9999999999999998
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "UI"
+            }
+          },
+          {
+            "id": "cf7d7be6266dfa1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFX/Notes/Game Coins and Gems Pack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game Coins and Gems Pack"
+            }
+          },
+          {
+            "id": "e5e154dae3ddd584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFX/Notes/MMORPG UI Kit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMORPG UI Kit"
             }
           }
         ],
@@ -91,8 +86,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -107,7 +105,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -115,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GFX/Assets.canvas",
+                "file": "GFX/Notes/KayKit - Character Animations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for KayKit - Character Animations"
             }
           },
           {
@@ -155,10 +159,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GFX/Assets.canvas",
+                "file": "GFX/Notes/KayKit - Character Animations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from KayKit - Character Animations"
             }
           },
           {
@@ -168,8 +174,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -178,8 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GFX/Assets.canvas"
-              }
+                "file": "GFX/Notes/KayKit - Character Animations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of KayKit - Character Animations"
             }
           }
         ]
@@ -199,51 +214,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53bd7c0b737674ca",
+  "active": "cf7d7be6266dfa1f",
   "lastOpenFiles": [
-    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
-    "Tutorials/Programming/Link collection.md",
-    "GFX/Assets.canvas",
-    "Resource Sources.md",
     "GFX/UI.canvas",
-    "GFX/Notes/illu32.md",
-    "GFX/Notes/Modular Sci-Fi MEGAKIT.md",
-    "GFX/Notes/Compass Rose Generator.md",
-    "GFX/Notes/quinquefive font.md",
+    "GFX/Notes/Game Coins and Gems Pack.md",
+    "GFX/Notes/MMORPG UI Kit.md",
+    "GFX/Notes/Post-Baroque UI GUI Kit.md",
+    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
+    "GFX/Resources/Post-Baroque UI GUI Kit.png",
+    "GFX/Shaders.canvas",
+    "GFX/Notes/KayKit - Character Animations.md",
+    "GFX/Notes/Brontes RPG MMO Game Interface.md",
+    "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md",
+    "GFX/Notes/Halloween Party GUI Pack.md",
+    "GFX/Notes/Christmas Icons GUI Pack.md",
+    "GFX/Notes/60 RPG Spells and Ability Icons.md",
+    "GFX/Notes/Loading Bars.md",
+    "GFX/Notes/RPG and MMO UI 11.md",
+    "GFX/Notes/Pixel Art Sci-Fi UI.md",
+    "GFX/Notes/Tabletop Badges.md",
+    "GFX/Notes/Cyber Pixel UI GUI Kit.md",
+    "GFX/Notes/Essential Inventory Sound Effects.md",
+    "GFX/Notes/Minimalist GUI Kit Dark.md",
+    "GFX/Notes/Starlight UI.md",
+    "GFX/Notes/Yamato V3.md",
+    "GFX/Notes/Fantasy Game Ranks V.1.md",
+    "GFX/Notes/Xenon Star.md",
+    "GFX/Notes/RPG and MMO UI X.md",
+    "GFX/Notes/Mobile Game GUI Pack 08.md",
+    "GFX/Notes/RPG MMO Three PC Mobile UI.md",
+    "GFX/Notes/40 Fantasy Human Portraits.md",
+    "GFX/Notes/todo.txt",
+    "GFX/Notes/GUI Wooden 2.md.txt",
+    "GFX/Notes/2D Icons 150 Space Rank.md.txt",
+    "GFX/Notes/GUI Blue Sky.md.txt",
+    "GFX/Notes/Brontes RPG MMO Game Interface.md.txt",
+    "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md.txt",
+    "GFX/Notes/Halloween Party GUI Pack.md.txt",
+    "GFX/Notes/Christmas Icons GUI Pack.md.txt",
+    "GFX/Notes/60 RPG Spells and Ability Icons.md.txt",
+    "GFX/Notes/Loading Bars.md.txt",
+    "GFX/Resources/gun assets.png",
+    "GFX/Assets.canvas",
     "GFX/Resources/quinquefive font 1.png",
     "GFX/Resources/quinquefive font 3.png",
     "GFX/Resources/quinquefive font 2.png",
-    "GFX/Notes/minimal hex tileset.md",
-    "GFX/Notes/matriax free assets.md",
     "GFX/Resources/matriax free assets 1.png",
     "GFX/Resources/matriax free assets 2.png",
     "GFX/Resources/matriax free assets 3.png",
     "GFX/Resources/minimal hex tileset.png",
-    "GFX/Resources/Compass Rose Generator.png",
-    "GFX/Notes/rune generator.md",
-    "GFX/Shaders.canvas",
-    "GFX/Resources/gun assets.png",
-    "GFX/Notes/KayKit - Character Animations.md",
-    "GFX/Resources/illu32 2.png",
-    "GFX/Notes/gun assets.md",
-    "GFX/Notes/Lambda Rogue Tileset is a 1-bit 12x12px tileset charset.md",
-    "GFX/Notes/Tiny Creatures.md",
-    "GFX/Notes/pixelart gamepad ui pack.md",
-    "GFX/Notes/MRMO-BRIK.md",
-    "GFX/Resources/retro master shader.md",
-    "GFX/Notes/tranquil tunnel.md",
-    "GFX/Notes/KayKit Resource Bits.md",
-    "GFX/Notes/KayKit Block Bits.md",
-    "GFX/Notes/Tiny Treats - House Plants set.md",
-    "GFX/Notes/Card Game Template Pack.md",
-    "GFX/Notes/Creature Cards.md",
-    "GFX/Notes",
-    "Tutorials/Programming",
-    "Tutorials",
-    "GameDev/GameDev Resources.md",
-    "Welcome.md",
-    "GFX/Resources",
-    "GFX",
-    "GameDev"
+    "GFX/Resources/Compass Rose Generator.png"
   ]
 }
