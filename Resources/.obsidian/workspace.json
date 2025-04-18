@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5be2ce38e52f1dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFX/Notes/Ultimate Outlines & Highlights.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ultimate Outlines & Highlights"
+            }
+          },
+          {
             "id": "b9b49246a036111f",
             "type": "leaf",
             "state": {
@@ -16,8 +30,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "625323357757dbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFX/VFX.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "VFX"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,44 +195,44 @@
   },
   "active": "b9b49246a036111f",
   "lastOpenFiles": [
+    "GFX/Assets.canvas",
     "GFX/UI.canvas",
+    "GFX/VFX.md",
     "GFX/Shaders.canvas",
+    "GFX/Notes/Ultimate Outlines & Highlights.md",
+    "GFX/Notes/Stylized VFX.md",
+    "GFX/Notes/RPG VFX Bundle.md",
+    "GFX/Notes/Realistic Effects Pack 4.md",
+    "GFX/Notes/ProPixelizer - Realtime 3D Pixel Art.md",
+    "GFX/Notes/Particle Pack.md",
+    "GFX/Notes/Liquid Volume Pro 2.md",
+    "GFX/Notes/Ian's Fire Pack.md",
+    "GFX/Notes/HQ Realistic explosions.md",
+    "GFX/Notes/Flat Kit Toon Shading and Water.md",
+    "GFX/Notes/Camera Fade Pack.md",
+    "GFX/Notes/Brute Force - Snow & Ice Shader.md",
+    "GFX/Notes/Amplify LUT Pack.md",
     "GFX/GFX.md",
+    "GFX/Resources/Particle Pack 2.webp",
+    "GFX/Resources/Particle Pack 1.webp",
+    "GFX/Notes/White mage spells.md",
+    "GFX/Notes/Stylized Element Splash Package vol.1.md",
+    "GFX/Resources/Realistic Effects Pack 4 1.webp",
+    "GFX/Resources/Realistic Effects Pack 4 2.webp",
+    "GFX/Resources/Camera Fade Pack.webp",
+    "GFX/Resources/Amplify LUT Pack.webp",
+    "GFX/Notes/All In 1 Sprite Shader.md",
+    "GFX/Resources/All In 1 Sprite Shader.webp",
+    "GFX/Resources/White mage spells 2.webp",
+    "GFX/Resources/White mage spells 1.webp",
+    "GFX/Resources/Liquid Volume Pro 2.webp",
+    "GFX/Notes/Quibli Anime Shaders and Tools.md",
+    "GFX/Resources/retro master shader.md",
+    "GFX/Notes/2D Icons 150 Space Rank.md",
+    "GFX/Notes/SpellBook Megapack.md",
+    "GFX/Notes/2D Icons Military Item.md",
     "GFX/Notes/Game Coins and Gems Pack.md",
     "GFX/Notes/Game Level Map Pack Horizontal Mode.md",
-    "GFX/Resources/2D Pixel Quest Vol.3 The UI GUI.png",
-    "Tutorials/Tutorials.md",
-    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
-    "GFX/Notes/100 Illustrator Graphic Styles Bundle.md",
-    "100 Illustrator Graphic Styles Bundle.png.md",
-    "GFX/Notes/Christmas Icons GUI Pack.md",
-    "GFX/Notes/Game Level Map Pack Horizontal Mode 2.md",
-    "GFX/Notes/Flat Ability Icons.md",
-    "GFX/Notes/Essential Inventory Sound Effects.md",
-    "GFX/Notes/Captains GUI.md",
-    "GFX/Notes/40 Fantasy Human Portraits.md",
-    "GFX/Notes/40 Cute Portraits.md",
-    "GFX/Notes/3D Dungeon Tileset & Asset Pack.md",
-    "GFX/Notes/2D Pixel RPG Icon Pack.md",
-    "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md",
-    "GFX/Notes/2D Icons Military Item.md",
-    "GFX/Notes/2D Icons 150 Space Rank.md",
-    "Link Collection.md",
-    "Tutorials/Link collection.md",
-    "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
-    "Tutorials/Programming/Unity 2D V2 - ARCHIVED COURSE.md",
-    "Tutorials/Resources/Unity 2D V2 - ARCHIVED COURSE.png",
-    "Tutorials/Programming/How To Get A Job In The Game Industry Create a Winning Resume, Portfolio, LinkedIn Profile & More.md",
-    "Tutorials/Resources/How To Get A Job In The Game Industry Create a Winning Resume, Portfolio, LinkedIn Profile & More.png",
-    "Tutorials/Programming/Unity RPG Core Combat Make Your Own RPG Combat System.md",
-    "Tutorials/Resources/Unity RPG Core Combat Make Your Own RPG Combat System.png",
-    "Tutorials/Resources/Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev.png",
-    "Tutorials/Resources/Get Git Smart Learn Git in Unity, SourceTree, GitHub.png",
-    "Tutorials/Resources/Math For Video Games Build Better Games Faster With Advanced Game Math.png",
-    "Tutorials/Resources/Unity RPG Inventory Systems Code Your Own RPG-Style Inventory.png",
-    "Tutorials/Resources/Unity RPG Dialogue & Quests Create Your Own RPG Quest System with Dialog.png",
-    "Tutorials/Resources/Unity Multiplayer Master Learn Unity Mirror to Build Your Own Multiplayer Tank Game.png",
-    "GFX/Assets.canvas",
     "Tutorials/Resources",
     "GFX/Notes/todo.txt",
     "GFX/Notes/GUI Wooden 2.md.txt",

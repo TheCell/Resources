@@ -2,6 +2,7 @@
 tags:
   - gfx
   - vfx
+up: "[[VFX]]"
 ---
 [https://andicraft.itch.io/retro-master-shader](https://andicraft.itch.io/retro-master-shader)
 ![[retro master shader.png]]
