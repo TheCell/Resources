@@ -3,7 +3,7 @@ tags:
   - unity
   - course
 created: 18.04.2025
-up: "[[Resource Sources]]"
+up: "[[Tutorials]]"
 ---
 
 [https://www.gamedev.tv/courses/unity-rpg-dialog-and-quests/introduction-battle-plan/2066](https://www.gamedev.tv/courses/unity-rpg-dialog-and-quests/introduction-battle-plan/2066)

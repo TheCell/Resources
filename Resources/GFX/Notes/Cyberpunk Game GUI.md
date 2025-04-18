@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/cyberpunk-game-gui](https://www.gamedevmarket.net/asset/cyberpunk-game-gui)
 

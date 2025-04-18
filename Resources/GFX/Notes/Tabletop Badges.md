@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/tabletop-badges](https://www.gamedevmarket.net/asset/tabletop-badges)
 

@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/fantasy-game-ranks-v-1](https://www.gamedevmarket.net/asset/fantasy-game-ranks-v-1)
 

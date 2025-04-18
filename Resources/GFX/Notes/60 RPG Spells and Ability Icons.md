@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/60-rpg-spells-and-ability-icons-7448](https://www.gamedevmarket.net/asset/60-rpg-spells-and-ability-icons-7448)
 

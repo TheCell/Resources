@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/2d-icons-150-space-rank](https://www.gamedevmarket.net/asset/2d-icons-150-space-rank)
 

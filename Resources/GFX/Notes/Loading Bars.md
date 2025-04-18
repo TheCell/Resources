@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/loading-bars](https://www.gamedevmarket.net/asset/loading-bars)
 

@@ -2,6 +2,7 @@
 tags:
   - portraits
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/40-cute-portraits-32x32](https://www.gamedevmarket.net/asset/40-cute-portraits-32x32)
 

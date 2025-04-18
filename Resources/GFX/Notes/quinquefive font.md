@@ -2,6 +2,7 @@
 tags:
   - gfx
   - font
+up: "[[GFX]]"
 ---
 [https://ggbot.itch.io/quinquefive-font](https://ggbot.itch.io/quinquefive-font)
 ![[quinquefive font 1.png]]

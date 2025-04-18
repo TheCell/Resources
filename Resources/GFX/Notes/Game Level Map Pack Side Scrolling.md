@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/game-level-map-pack-side-scrolling](https://www.gamedevmarket.net/asset/game-level-map-pack-side-scrolling)
 

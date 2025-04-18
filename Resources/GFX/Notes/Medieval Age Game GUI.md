@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/medieval-age-game-gui-9940](https://www.gamedevmarket.net/asset/medieval-age-game-gui-9940)
 

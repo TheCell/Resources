@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/mobile-game-gui-pack-08-6188](https://www.gamedevmarket.net/asset/mobile-game-gui-pack-08-6188)
 

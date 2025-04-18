@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/pixel-art-sci-fi-ui](https://www.gamedevmarket.net/asset/pixel-art-sci-fi-ui)
 

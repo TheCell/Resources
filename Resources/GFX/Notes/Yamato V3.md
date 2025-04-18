@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/yamato-v3](https://www.gamedevmarket.net/asset/yamato-v3)
 

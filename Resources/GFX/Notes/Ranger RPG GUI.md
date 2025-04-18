@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/ranger-rpg-gui](https://www.gamedevmarket.net/asset/ranger-rpg-gui)
 

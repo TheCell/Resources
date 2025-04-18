@@ -9,8 +9,8 @@
 		{"id":"9114e98e363a16f9","type":"file","file":"GFX/Notes/Modular Sci-Fi MEGAKIT.md","x":-1860,"y":-380,"width":400,"height":400},
 		{"id":"933a5155c361427b","type":"file","file":"GFX/Notes/KayKit - Character Animations.md","x":-347,"y":-720,"width":400,"height":400},
 		{"id":"2049f2aad892ddd4","type":"file","file":"GFX/Notes/illu32.md","x":3400,"y":-1200,"width":400,"height":400},
-		{"id":"cc748abbd48629eb","type":"file","file":"GFX/Expedition Essentials 3D Asset Pack.md","x":-2840,"y":-1120,"width":400,"height":400},
-		{"id":"ade602e355e4e402","type":"file","file":"GFX/Arcane Accessories 3D Asset Pack.md","x":-2360,"y":-1120,"width":400,"height":400},
+		{"id":"cc748abbd48629eb","type":"file","file":"GFX/Notes/Expedition Essentials 3D Asset Pack.md","x":-2840,"y":-1120,"width":400,"height":400},
+		{"id":"ade602e355e4e402","type":"file","file":"GFX/Notes/Arcane Accessories 3D Asset Pack.md","x":-2360,"y":-1120,"width":400,"height":400},
 		{"id":"79eaad2c0a550d9e","type":"file","file":"GFX/Notes/rune generator.md","x":3400,"y":2480,"width":400,"height":400},
 		{"id":"c6811b554c2bb156","type":"file","file":"GFX/Notes/KayKit Block Bits.md","x":-347,"y":-209,"width":400,"height":400},
 		{"id":"51295a293a0b14c4","type":"file","file":"GFX/Notes/Compass Rose Generator.md","x":3920,"y":2480,"width":400,"height":400},
@@ -23,7 +23,7 @@
 		{"id":"c995afcbfe4c7c06","type":"file","file":"GFX/Notes/Tiny Creatures.md","x":-460,"y":620,"width":400,"height":400},
 		{"id":"3843b11adb78de0d","type":"file","file":"GFX/Notes/Lambda Rogue Tileset is a 1-bit 12x12px tileset charset.md","x":520,"y":620,"width":400,"height":400},
 		{"id":"f1a8ed0902fc9a0d","type":"file","file":"GFX/Notes/minimal hex tileset.md","x":-460,"y":1100,"width":400,"height":400},
-		{"id":"4d5639c34eaa17bf","x":-1920,"y":-1120,"width":400,"height":400,"type":"file","file":"GFX/3D Dungeon Tileset & Asset Pack.md"}
+		{"id":"4d5639c34eaa17bf","x":-1920,"y":-1120,"width":400,"height":400,"type":"file","file":"GFX/Notes/3D Dungeon Tileset & Asset Pack.md"}
 	],
 	"edges":[]
 }

@@ -3,7 +3,7 @@ tags:
   - unity
   - course
 created: 10.04.2025
-up: "[[Resource Sources]]"
+up: "[[Tutorials]]"
 ---
 ![[Complete Unity 3D Developer Design & Develop Games in Unity 6 using C Sharp.png]]
 

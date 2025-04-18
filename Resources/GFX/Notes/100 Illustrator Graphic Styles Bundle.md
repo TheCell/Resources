@@ -2,6 +2,7 @@
 tags:
   - gfx
   - styles
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/100-illustrator-graphic-styles-bundle-01-8326](https://www.gamedevmarket.net/asset/100-illustrator-graphic-styles-bundle-01-8326)
 

@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/pixel-art-ancient-nordic-runes](https://www.gamedevmarket.net/asset/pixel-art-ancient-nordic-runes)
 

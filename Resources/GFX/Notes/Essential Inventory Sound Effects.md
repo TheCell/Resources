@@ -2,6 +2,7 @@
 tags:
   - audio
   - sfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/essential-inventory-sound-effects](https://www.gamedevmarket.net/asset/essential-inventory-sound-effects)
 

@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/gold-game-ranks](https://www.gamedevmarket.net/asset/gold-game-ranks)
 

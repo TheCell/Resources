@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/fantasy-game-buttons-v-9](https://www.gamedevmarket.net/asset/fantasy-game-buttons-v-9)
 

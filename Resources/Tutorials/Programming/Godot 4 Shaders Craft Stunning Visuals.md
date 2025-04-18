@@ -3,7 +3,7 @@ tags:
   - godot
   - course
 created: 18.04.2025
-up: "[[Resource Sources]]"
+up: "[[Tutorials]]"
 ---
 
 ![[Godot 4 Shaders Craft Stunning Visuals.png]]

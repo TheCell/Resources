@@ -3,6 +3,7 @@ tags:
   - gfx
   - ui
   - tiles
+up: "[[GFX]]"
 ---
 [https://oworowo.itch.io/pixelart-gamepad-ui-pack](https://oworowo.itch.io/pixelart-gamepad-ui-pack)
 ![[pixelart gamepad ui pack 1.png]]![[pixelart gamepad ui pack 2.png]]

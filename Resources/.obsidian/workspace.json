@@ -4,70 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "16a8dfb104869c2d",
+        "id": "829d062b0af37a40",
         "type": "tabs",
         "children": [
           {
-            "id": "456ce81501bafce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complete Unity 3D Developer Design & Develop Games in Unity 6 using C"
-            }
-          },
-          {
-            "id": "1020fc148aa902db",
+            "id": "b9b49246a036111f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "GFX/UI.canvas",
                 "viewState": {
-                  "x": 4.990267846604127,
-                  "y": -886.1819292966985,
-                  "zoom": -1.9999999999999998
+                  "x": 2091.0842965782895,
+                  "y": 130.4681170477753,
+                  "zoom": -3.145452276865426
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "UI"
             }
-          },
-          {
-            "id": "cf7d7be6266dfa1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Math For Video Games Build Better Games Faster With Advanced Game Math"
-            }
-          },
-          {
-            "id": "e5e154dae3ddd584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorials/Programming/Unity 2D V2 - ARCHIVED COURSE.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Unity 2D V2 - ARCHIVED COURSE"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,48 +171,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5e154dae3ddd584",
+  "active": "b9b49246a036111f",
   "lastOpenFiles": [
+    "GFX/Shaders.canvas",
+    "GFX/GFX.md",
+    "GFX/UI.canvas",
+    "GFX/Notes/Game Coins and Gems Pack.md",
+    "GFX/Notes/Game Level Map Pack Horizontal Mode.md",
+    "GFX/Resources/2D Pixel Quest Vol.3 The UI GUI.png",
+    "Tutorials/Tutorials.md",
+    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
+    "GFX/Notes/100 Illustrator Graphic Styles Bundle.md",
+    "100 Illustrator Graphic Styles Bundle.png.md",
+    "GFX/Notes/Christmas Icons GUI Pack.md",
+    "GFX/Notes/Game Level Map Pack Horizontal Mode 2.md",
+    "GFX/Notes/Flat Ability Icons.md",
+    "GFX/Notes/Essential Inventory Sound Effects.md",
+    "GFX/Notes/Captains GUI.md",
+    "GFX/Notes/40 Fantasy Human Portraits.md",
+    "GFX/Notes/40 Cute Portraits.md",
+    "GFX/Notes/3D Dungeon Tileset & Asset Pack.md",
+    "GFX/Notes/2D Pixel RPG Icon Pack.md",
+    "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md",
+    "GFX/Notes/2D Icons Military Item.md",
+    "GFX/Notes/2D Icons 150 Space Rank.md",
+    "Link Collection.md",
+    "Tutorials/Link collection.md",
+    "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
+    "Tutorials/Programming/Unity 2D V2 - ARCHIVED COURSE.md",
     "Tutorials/Resources/Unity 2D V2 - ARCHIVED COURSE.png",
     "Tutorials/Programming/How To Get A Job In The Game Industry Create a Winning Resume, Portfolio, LinkedIn Profile & More.md",
-    "Tutorials/Programming/Unity 2D V2 - ARCHIVED COURSE.md",
     "Tutorials/Resources/How To Get A Job In The Game Industry Create a Winning Resume, Portfolio, LinkedIn Profile & More.png",
     "Tutorials/Programming/Unity RPG Core Combat Make Your Own RPG Combat System.md",
     "Tutorials/Resources/Unity RPG Core Combat Make Your Own RPG Combat System.png",
-    "Tutorials/Programming/Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev.md",
     "Tutorials/Resources/Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev.png",
-    "Tutorials/Programming/Get Git Smart Learn Git in Unity, SourceTree, GitHub.md",
     "Tutorials/Resources/Get Git Smart Learn Git in Unity, SourceTree, GitHub.png",
-    "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
-    "GFX/Notes/MMORPG UI Kit.md",
     "Tutorials/Resources/Math For Video Games Build Better Games Faster With Advanced Game Math.png",
-    "Tutorials/Programming/Unity RPG Inventory Systems Code Your Own RPG-Style Inventory.md",
     "Tutorials/Resources/Unity RPG Inventory Systems Code Your Own RPG-Style Inventory.png",
-    "Tutorials/Programming/Unity RPG Dialogue & Quests Create Your Own RPG Quest System with Dialog.md",
     "Tutorials/Resources/Unity RPG Dialogue & Quests Create Your Own RPG Quest System with Dialog.png",
-    "Tutorials/Programming/Unity Multiplayer Master Learn Unity Mirror to Build Your Own Multiplayer Tank Game.md",
     "Tutorials/Resources/Unity Multiplayer Master Learn Unity Mirror to Build Your Own Multiplayer Tank Game.png",
-    "Tutorials/Programming/Complete Unity 3D Developer Unity 2020.1 Archive Course.md",
-    "Tutorials/Resources/Complete Unity 3D Developer Unity 2020.1 Archive Course.png",
-    "Tutorials/Programming/Complete Unity 2D Developer Create Your Own 2D Games Using Unity C Sharp.md",
-    "Tutorials/Resources/Complete Unity 2D Developer Create Your Own 2D Games Using Unity C Sharp.png",
-    "Tutorials/Programming/Complete Godot 4 2D Code Your Own 2D Games In Godot 4.md",
-    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C Sharp.md",
-    "Tutorials/Programming/Godot 4 C Sharp Action Adventure Build your own 2.5D RPG.md",
-    "GFX/Arcane Accessories 3D Asset Pack.md",
-    "GFX/3D Dungeon Tileset & Asset Pack.md",
     "GFX/Assets.canvas",
-    "GFX/Expedition Essentials 3D Asset Pack.md",
-    "Tutorials/Programming/Godot 4 Multiplayer Make Your Own Online Game.md",
-    "GFX/Notes/2D Icons Military Item.md",
-    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
-    "Tutorials/Programming/Master Mobile Game Development with Godot 4 From Concept to App Stores.md",
-    "Tutorials/Programming/Godot 4 Shaders Craft Stunning Visuals.md",
-    "Tutorials/Link collection.md",
-    "Tutorials/Programming/Godot Character Controller.md",
     "Tutorials/Resources",
-    "GFX/UI.canvas",
-    "GFX/Shaders.canvas",
     "GFX/Notes/todo.txt",
     "GFX/Notes/GUI Wooden 2.md.txt",
     "GFX/Notes/2D Icons 150 Space Rank.md.txt",

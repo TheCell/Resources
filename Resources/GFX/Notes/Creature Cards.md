@@ -2,6 +2,7 @@
 tags:
   - cards
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/creature-cards](https://www.gamedevmarket.net/asset/creature-cards)
 

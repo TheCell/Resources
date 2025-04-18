@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/rpg-mmo-three-pc-mobile-ui](https://www.gamedevmarket.net/asset/rpg-mmo-three-pc-mobile-ui)
 

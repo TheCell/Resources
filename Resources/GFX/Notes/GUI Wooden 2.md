@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/gui-wooden-2](https://www.gamedevmarket.net/asset/gui-wooden-2)
 

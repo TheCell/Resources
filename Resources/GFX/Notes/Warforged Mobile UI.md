@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/warforged-mobile-ui-5130](https://www.gamedevmarket.net/asset/warforged-mobile-ui-5130)
 

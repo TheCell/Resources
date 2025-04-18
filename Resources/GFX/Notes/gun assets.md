@@ -1,6 +1,7 @@
 ---
 tags:
   - gfx
+up: "[[GFX]]"
 ---
 [https://kaylousberg.itch.io/gun-assets](https://kaylousberg.itch.io/gun-assets)
 ![[gun assets.png]]

@@ -3,6 +3,7 @@ tags:
   - gfx
   - 3d
   - animation
+up: "[[GFX]]"
 ---
 [https://kaylousberg.itch.io/kaykit-animations](https://kaylousberg.itch.io/kaykit-animations)
 ![[KayKit - Character Animations 1.png]]

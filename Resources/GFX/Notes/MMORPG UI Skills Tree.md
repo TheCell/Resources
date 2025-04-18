@@ -2,6 +2,7 @@
 tags:
   - ui
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/mmrpg-ui-skils-tree](https://www.gamedevmarket.net/asset/mmrpg-ui-skils-tree)
 

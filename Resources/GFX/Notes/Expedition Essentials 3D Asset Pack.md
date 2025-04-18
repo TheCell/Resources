@@ -3,7 +3,7 @@ tags:
   - gfx
   - 3d
   - asset
-up: "[[Resource Sources]]"
+up: "[[GFX]]"
 ---
 [https://www.gamedev.tv/assets/expedition-essentials/view](https://www.gamedev.tv/assets/expedition-essentials/view)
 

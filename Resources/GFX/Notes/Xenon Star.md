@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/xenon-star](https://www.gamedevmarket.net/asset/xenon-star)
 

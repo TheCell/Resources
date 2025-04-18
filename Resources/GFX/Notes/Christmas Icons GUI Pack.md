@@ -2,6 +2,7 @@
 tags:
   - icons
   - gfx
+up: "[[GFX]]"
 ---
 [https://www.gamedevmarket.net/asset/christmas-icons-gui-pack](https://www.gamedevmarket.net/asset/christmas-icons-gui-pack)
 

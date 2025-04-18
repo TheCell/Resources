@@ -2,6 +2,7 @@
 tags:
   - gfx
   - collection
+up: "[[GFX]]"
 ---
 [https://kronbits.itch.io/matriax-free-assets](https://kronbits.itch.io/matriax-free-assets)
 ![[matriax free assets 3.png]]
