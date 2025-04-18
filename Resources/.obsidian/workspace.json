@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GFX/Notes/Game Coins and Gems Pack.md",
+                "file": "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Game Coins and Gems Pack"
+              "title": "Math For Video Games Build Better Games Faster With Advanced Game Math"
             }
           },
           {
@@ -58,16 +58,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GFX/Notes/MMORPG UI Kit.md",
+                "file": "Tutorials/Programming/Unity 2D V2 - ARCHIVED COURSE.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "MMORPG UI Kit"
+              "title": "Unity 2D V2 - ARCHIVED COURSE"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,36 +214,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf7d7be6266dfa1f",
+  "active": "e5e154dae3ddd584",
   "lastOpenFiles": [
-    "GFX/UI.canvas",
-    "GFX/Notes/Game Coins and Gems Pack.md",
+    "Tutorials/Resources/Unity 2D V2 - ARCHIVED COURSE.png",
+    "Tutorials/Programming/How To Get A Job In The Game Industry Create a Winning Resume, Portfolio, LinkedIn Profile & More.md",
+    "Tutorials/Programming/Unity 2D V2 - ARCHIVED COURSE.md",
+    "Tutorials/Resources/How To Get A Job In The Game Industry Create a Winning Resume, Portfolio, LinkedIn Profile & More.png",
+    "Tutorials/Programming/Unity RPG Core Combat Make Your Own RPG Combat System.md",
+    "Tutorials/Resources/Unity RPG Core Combat Make Your Own RPG Combat System.png",
+    "Tutorials/Programming/Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev.md",
+    "Tutorials/Resources/Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev.png",
+    "Tutorials/Programming/Get Git Smart Learn Git in Unity, SourceTree, GitHub.md",
+    "Tutorials/Resources/Get Git Smart Learn Git in Unity, SourceTree, GitHub.png",
+    "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
     "GFX/Notes/MMORPG UI Kit.md",
-    "GFX/Notes/Post-Baroque UI GUI Kit.md",
-    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C.md",
-    "GFX/Resources/Post-Baroque UI GUI Kit.png",
+    "Tutorials/Resources/Math For Video Games Build Better Games Faster With Advanced Game Math.png",
+    "Tutorials/Programming/Unity RPG Inventory Systems Code Your Own RPG-Style Inventory.md",
+    "Tutorials/Resources/Unity RPG Inventory Systems Code Your Own RPG-Style Inventory.png",
+    "Tutorials/Programming/Unity RPG Dialogue & Quests Create Your Own RPG Quest System with Dialog.md",
+    "Tutorials/Resources/Unity RPG Dialogue & Quests Create Your Own RPG Quest System with Dialog.png",
+    "Tutorials/Programming/Unity Multiplayer Master Learn Unity Mirror to Build Your Own Multiplayer Tank Game.md",
+    "Tutorials/Resources/Unity Multiplayer Master Learn Unity Mirror to Build Your Own Multiplayer Tank Game.png",
+    "Tutorials/Programming/Complete Unity 3D Developer Unity 2020.1 Archive Course.md",
+    "Tutorials/Resources/Complete Unity 3D Developer Unity 2020.1 Archive Course.png",
+    "Tutorials/Programming/Complete Unity 2D Developer Create Your Own 2D Games Using Unity C Sharp.md",
+    "Tutorials/Resources/Complete Unity 2D Developer Create Your Own 2D Games Using Unity C Sharp.png",
+    "Tutorials/Programming/Complete Godot 4 2D Code Your Own 2D Games In Godot 4.md",
+    "Tutorials/Programming/Complete Unity 3D Developer Design & Develop Games in Unity 6 using C Sharp.md",
+    "Tutorials/Programming/Godot 4 C Sharp Action Adventure Build your own 2.5D RPG.md",
+    "GFX/Arcane Accessories 3D Asset Pack.md",
+    "GFX/3D Dungeon Tileset & Asset Pack.md",
+    "GFX/Assets.canvas",
+    "GFX/Expedition Essentials 3D Asset Pack.md",
+    "Tutorials/Programming/Godot 4 Multiplayer Make Your Own Online Game.md",
+    "GFX/Notes/2D Icons Military Item.md",
+    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
+    "Tutorials/Programming/Master Mobile Game Development with Godot 4 From Concept to App Stores.md",
+    "Tutorials/Programming/Godot 4 Shaders Craft Stunning Visuals.md",
+    "Tutorials/Link collection.md",
+    "Tutorials/Programming/Godot Character Controller.md",
+    "Tutorials/Resources",
+    "GFX/UI.canvas",
     "GFX/Shaders.canvas",
-    "GFX/Notes/KayKit - Character Animations.md",
-    "GFX/Notes/Brontes RPG MMO Game Interface.md",
-    "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md",
-    "GFX/Notes/Halloween Party GUI Pack.md",
-    "GFX/Notes/Christmas Icons GUI Pack.md",
-    "GFX/Notes/60 RPG Spells and Ability Icons.md",
-    "GFX/Notes/Loading Bars.md",
-    "GFX/Notes/RPG and MMO UI 11.md",
-    "GFX/Notes/Pixel Art Sci-Fi UI.md",
-    "GFX/Notes/Tabletop Badges.md",
-    "GFX/Notes/Cyber Pixel UI GUI Kit.md",
-    "GFX/Notes/Essential Inventory Sound Effects.md",
-    "GFX/Notes/Minimalist GUI Kit Dark.md",
-    "GFX/Notes/Starlight UI.md",
-    "GFX/Notes/Yamato V3.md",
-    "GFX/Notes/Fantasy Game Ranks V.1.md",
-    "GFX/Notes/Xenon Star.md",
-    "GFX/Notes/RPG and MMO UI X.md",
-    "GFX/Notes/Mobile Game GUI Pack 08.md",
-    "GFX/Notes/RPG MMO Three PC Mobile UI.md",
-    "GFX/Notes/40 Fantasy Human Portraits.md",
     "GFX/Notes/todo.txt",
     "GFX/Notes/GUI Wooden 2.md.txt",
     "GFX/Notes/2D Icons 150 Space Rank.md.txt",
@@ -252,17 +264,6 @@
     "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md.txt",
     "GFX/Notes/Halloween Party GUI Pack.md.txt",
     "GFX/Notes/Christmas Icons GUI Pack.md.txt",
-    "GFX/Notes/60 RPG Spells and Ability Icons.md.txt",
-    "GFX/Notes/Loading Bars.md.txt",
-    "GFX/Resources/gun assets.png",
-    "GFX/Assets.canvas",
-    "GFX/Resources/quinquefive font 1.png",
-    "GFX/Resources/quinquefive font 3.png",
-    "GFX/Resources/quinquefive font 2.png",
-    "GFX/Resources/matriax free assets 1.png",
-    "GFX/Resources/matriax free assets 2.png",
-    "GFX/Resources/matriax free assets 3.png",
-    "GFX/Resources/minimal hex tileset.png",
-    "GFX/Resources/Compass Rose Generator.png"
+    "GFX/Notes/60 RPG Spells and Ability Icons.md.txt"
   ]
 }
