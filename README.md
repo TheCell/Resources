@@ -6,3 +6,6 @@ I use the Obsidian software
 
 # UI
 ![UI](UI.png)
+
+# Graph View
+![Graph View](GraphView.png)

@@ -11,17 +11,10 @@
             "id": "b9b49246a036111f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GFX/UI.canvas",
-                "viewState": {
-                  "x": 2091.0842965782895,
-                  "y": 130.4681170477753,
-                  "zoom": -3.145452276865426
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "UI"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,9 +166,9 @@
   },
   "active": "b9b49246a036111f",
   "lastOpenFiles": [
+    "GFX/UI.canvas",
     "GFX/Shaders.canvas",
     "GFX/GFX.md",
-    "GFX/UI.canvas",
     "GFX/Notes/Game Coins and Gems Pack.md",
     "GFX/Notes/Game Level Map Pack Horizontal Mode.md",
     "GFX/Resources/2D Pixel Quest Vol.3 The UI GUI.png",
