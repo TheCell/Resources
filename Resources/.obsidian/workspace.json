@@ -13,47 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GFX/Notes/Ultimate Outlines & Highlights.md",
+                "file": "GFX/Notes/Graffiti Pack Decals.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ultimate Outlines & Highlights"
+              "title": "Graffiti Pack Decals"
             }
           },
           {
-            "id": "b9b49246a036111f",
+            "id": "705ff95b37718cb8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GFX/Notes/Spear And Halberd Animset.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Spear And Halberd Animset"
+            }
+          },
+          {
+            "id": "feea7697f4f24d6f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "GFX/Assets.canvas",
                 "viewState": {
-                  "x": 1135.2767107018617,
-                  "y": 736.780651998652,
-                  "zoom": -1.870347892923174
+                  "x": 3291.0750085401387,
+                  "y": 463.65410658218025,
+                  "zoom": -3.3333333333333335
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Assets"
             }
-          },
-          {
-            "id": "625323357757dbd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GFX/VFX.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "VFX"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,46 +202,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b49246a036111f",
+  "active": "feea7697f4f24d6f",
   "lastOpenFiles": [
-    "GFX/Notes/Hex Medieval-Fantasy Locations.md",
+    "GFX/Notes/BIRDS PACK.md",
     "GFX/Assets.canvas",
-    "GFX/Notes/Graffiti Pack Decals.md",
-    "GFX/Notes/Character Creator 2D.md",
-    "GFX/Notes/AllSky - 220+ Skybox Set.md",
-    "GFX/UI.canvas",
-    "GFX/Notes/45 Animated emojis 2D + Bubbles.md",
-    "GFX/Notes/Pixel Art Platformer - Dungeon.md",
-    "GFX/Notes/Pixel Monsters Vol.2.md",
+    "GFX/Notes/Party Monster Rumble PBR.md",
+    "GFX/Notes/Monsters Ultimate Pack 02 Cute Series.md",
+    "GFX/Notes/Forest animals.md",
+    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 3.md",
+    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 2.md",
+    "GFX/Notes/Low Poly Cartoon House Interiors.md",
+    "GFX/Notes/Low Poly Nature Bundle.md",
+    "GFX/Notes/Low Poly Forest Pack.md",
+    "GFX/Notes/Science Research Lab.md",
+    "GFX/Notes/Modern Neighborhood House, Blue Dot Studios.md",
+    "GFX/Notes/Humanoid 3D Charactor_P08_Federica.md",
+    "GFX/Notes/Crafting Mecanim Animation Pack.md",
+    "GFX/Notes/Basic Motions.md",
+    "GFX/Notes/LOWPOLY ANIMALS.md",
+    "GFX/Resources/LOWPOLY ANIMALS.webp",
+    "GFX/Notes/Spear And Halberd Animset.md",
+    "GFX/Resources/Science Research Lab.webp",
+    "GFX/Resources/Low Poly Forest Pack.webp",
+    "GFX/Notes/Medical Equipments.md",
+    "GFX/Resources/Medical Equipments.webp",
+    "GFX/Resources/Quirky Series - Animals Mega Pack Vol 3.webp",
+    "GFX/Resources/Forest animals.webp",
+    "GFX/Resources/Quirky Series - Animals Mega Pack Vol 2.webp",
+    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 1.md",
+    "GFX/Resources/Monsters Ultimate Pack 02 Cute Series.webp",
+    "GFX/Resources/BIRDS PACK.webp",
+    "GFX/Resources/Quirky Series - Animals Mega Pack Vol 1.webp",
+    "GFX/Notes/Eternal Temple.md",
     "GFX/GFX.md",
-    "GFX/Resources/Graffiti Pack Decals.webp",
-    "GFX/Resources/AllSky - 220+ Skybox Set.webp",
-    "GFX/Notes/2D Sci-Fi Weapons Pack.md",
-    "GFX/Resources/2D Sci-Fi Weapons Pack.webp",
-    "GFX/Resources/Character Creator 2D.webp",
-    "GFX/Resources/Pixel Monsters Vol.2.webp",
-    "GFX/Resources/45 Animated emojis 2D + Bubbles.webp",
-    "8fa27d9c-581a-47c8-84ee-4e75eb944cf6.webp",
-    "GFX/Resources/Pixel Art Platformer - Dungeon.webp",
-    "GFX/Resources/Hex Medieval-Fantasy Locations 1.webp",
-    "GFX/Resources/Hex Medieval-Fantasy Locations 2.webp",
-    "GFX/Notes/Ultimate Outlines & Highlights.md",
-    "GFX/VFX.md",
+    "GFX/Notes/Little Dragons Tiger.md",
+    "GFX/Notes/POLYGON Dungeons - Low Poly 3D Art by Synty.md",
     "GFX/Shaders.canvas",
-    "GFX/Notes/Stylized VFX.md",
-    "GFX/Notes/RPG VFX Bundle.md",
-    "GFX/Notes/Realistic Effects Pack 4.md",
-    "GFX/Notes/ProPixelizer - Realtime 3D Pixel Art.md",
-    "GFX/Notes/Particle Pack.md",
-    "GFX/Notes/Liquid Volume Pro 2.md",
-    "GFX/Notes/Ian's Fire Pack.md",
-    "GFX/Notes/HQ Realistic explosions.md",
-    "GFX/Notes/Flat Kit Toon Shading and Water.md",
-    "GFX/Notes/Camera Fade Pack.md",
-    "GFX/Notes/Brute Force - Snow & Ice Shader.md",
-    "GFX/Notes/Amplify LUT Pack.md",
-    "GFX/Notes/White mage spells.md",
-    "GFX/Notes/Stylized Element Splash Package vol.1.md",
+    "GFX/UI.canvas",
+    "GFX/Notes/Toon Fantasy Nature.md",
+    "GFX/Notes/Graffiti Pack Decals.md",
+    "GFX/Notes/ArchVizPRO Interior Vol.7 URP.md",
     "Tutorials/Resources",
     "GFX/Notes/todo.txt",
     "GFX/Notes/GUI Wooden 2.md.txt",
