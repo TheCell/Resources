@@ -24,20 +24,51 @@
             }
           },
           {
-            "id": "d5ab2a3752700449",
+            "id": "d8cdf48d33c09218",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "GFX/UI.canvas",
+                "viewState": {
+                  "x": 2617.941875664488,
+                  "y": 1070.715316822823,
+                  "zoom": -3
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "UI"
+            }
+          },
+          {
+            "id": "08eba91018c8f617",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "canvas",
               "state": {
                 "file": "GFX/Assets.canvas",
                 "viewState": {
-                  "x": 1655.3186321188387,
-                  "y": 110.42235393957836,
-                  "zoom": -1.1946219403044436
+                  "x": -1897.3460151492825,
+                  "y": 2889.2796307905282,
+                  "zoom": -1.3333333333333333
                 }
               },
+              "pinned": true,
               "icon": "lucide-layout-dashboard",
               "title": "Assets"
+            }
+          },
+          {
+            "id": "e40547e1f8b3ebe4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -73,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Medical Equipments",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,45 +219,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0541ab0d6b7f0a5",
+  "active": "d8cdf48d33c09218",
   "lastOpenFiles": [
-    "GFX/Notes/Block Pack.md",
     "GFX/Assets.canvas",
-    "GFX/Notes/Isometric Miniature Bases.md",
-    "GFX/Notes/Rune Pack.md",
-    "GFX/Notes/Sketch Desert.md",
-    "GFX/Notes/Pixel Platformer Industrial Expansion.md",
-    "GFX/Notes/Pixel Platformer Farm Expansion.md",
-    "GFX/Notes/Pixel Platformer.md",
+    "GFX/Notes/RPG Urban Pack.md",
+    "GFX/Notes/Rolling Ball Assets.md",
+    "GFX/Notes/Pixel Vehicle Pack.md",
+    "GFX/Notes/Particle Pack 1.md",
     "GFX/UI.canvas",
-    "GFX/Notes/Tiny Battle.md",
-    "GFX/Notes/Tiny Ski.md",
-    "GFX/Notes/Onscreen Controls.md",
-    "GFX/Notes/Fantasy UI Borders.md",
-    "GFX/Resources/Onscreen Controls.png",
+    "GFX/Notes/Emotes Pack.md",
+    "GFX/Notes/Background Elements Redux.md",
+    "GFX/Notes/Isometric Miniature Prototype.md",
+    "GFX/Notes/Isometric Miniature Library.md",
+    "GFX/Notes/Isometric Miniature Farm.md",
+    "GFX/Notes/Isometric Miniature Dungeon.md",
+    "GFX/Notes/Simplified Platformer Pack.md",
+    "GFX/Notes/Toon Characters 1.md",
+    "GFX/Resources/Particle Pack.png",
+    "GFX/Resources/Simplified Platformer Pack.png",
     "GFX/Notes/1-Bit Input Prompts Pixel 16×.md",
-    "GFX/Resources/Rune Pack.png",
-    "GFX/Resources/Fantasy UI Borders.png",
-    "GFX/Notes/Monochrome Pirates.md",
-    "GFX/Resources/Monochrome Pirates.png",
-    "GFX/Notes/Shape Characters.md",
-    "GFX/Resources/Shape Characters.png",
-    "GFX/Resources/Pixel Platformer.png",
-    "GFX/Notes/Pixel Platformer Food Expansion.md",
-    "GFX/Resources/Pixel Platformer Food Expansion.png",
-    "GFX/Notes/Pico-8 City.md",
-    "GFX/Resources/Pico-8 City.png",
-    "GFX/Resources/Tiny Battle.png",
-    "GFX/Resources/Isometric Miniature Bases.png",
-    "GFX/Notes/Planets.md",
-    "GFX/Notes/Minimap Pack.md",
-    "GFX/Notes/Board Game Icons.md",
-    "GFX/Notes/Cursor Pixel Pack.md",
-    "GFX/GFX.md",
-    "GFX/Notes/Cursor Pack.md",
-    "GFX/Notes/Googly Eyes.md",
-    "GFX/Notes/Input Prompts.md",
-    "GFX/Notes/Pico-8 Platformer.md",
+    "GFX/Resources/Emotes Pack.png",
+    "GFX/Resources/RPG Urban Pack.png",
+    "GFX/Resources/Isometric Miniature Prototype.png",
+    "GFX/Resources/Isometric Miniature Library.png",
+    "GFX/Resources/Isometric Miniature Dungeon.png",
+    "GFX/Resources/Isometric Miniature Farm.png",
+    "GFX/Resources/Background Elements Redux.png",
+    "GFX/Resources/Pixel Vehicle Pack.png",
+    "GFX/Notes/Foliage Sprites.md",
+    "GFX/Notes/Scribble Platformer.md",
+    "GFX/Notes/Cartography Pack.md",
+    "GFX/Notes/Playing Cards Pack.md",
+    "GFX/Notes/Tiny Dungeon.md",
+    "GFX/Notes/Splat Pack.md",
+    "GFX/Notes/Simple Space.md",
+    "GFX/Notes/Board Game Info.md",
+    "GFX/Notes/Monster Builder Pack.md",
+    "GFX/Notes/Pixel Line Platformer.md",
+    "GFX/Notes/Scribble Dungeons.md",
+    "GFX/Notes/Micro Roguelike.md",
     "GFX/Shaders.canvas",
     "Tutorials/Resources",
     "GFX/Notes/todo.txt",
