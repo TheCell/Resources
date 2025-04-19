@@ -11,14 +11,10 @@
             "id": "5be2ce38e52f1dab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GFX/Notes/Graffiti Pack Decals.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Graffiti Pack Decals"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -38,13 +34,20 @@
             }
           },
           {
-            "id": "5a5a9b816b742df3",
+            "id": "3f2cd85787457694",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "GFX/UI.canvas",
+                "viewState": {
+                  "x": 867.4500224631602,
+                  "y": 752.1008280841318,
+                  "zoom": -2.6558019996530695
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "UI"
             }
           }
         ],
@@ -80,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Medical Equipments",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 509.5
   },
   "right": {
     "id": "70e7455a67bbd68e",
@@ -195,10 +198,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a5a9b816b742df3",
+  "active": "3f2cd85787457694",
   "lastOpenFiles": [
+    "GFX/Shaders.canvas",
+    "GFX/UI.canvas",
+    "GFX/VFX.md",
     "GFX/Assets.canvas",
+    "GFX/Notes/Medical Equipments.md",
+    "GFX/Notes/Science Research Lab.md",
+    "GFX/Notes/Camera Fade Pack.md",
+    "GFX/Resources/Horse Animset Pro (Riding System).webp",
+    "GFX/Resources/Low Poly Ultimate Pack.webp",
     "GFX/Notes/POLYGON Western - Low Poly 3D Art by Synty.md",
+    "GFX/Resources/Animated Hands with Gloves + HDRP 2019.3.md",
+    "GFX/Resources/Animated Hands with Gloves + HDRP 2019.3.webp",
+    "GFX/Notes/Black Crusader UI.md",
+    "GFX/Notes/ArchVizPRO Interior Vol.7 URP.md",
+    "GFX/Notes/Animals full pack.md",
+    "GFX/Notes/Amplify LUT Pack.md",
+    "GFX/Notes/All In 1 Sprite Shader.md",
+    "GFX/Notes/Spear And Halberd Animset.md",
+    "GFX/Resources/Liquid Volume Pro 2.webp",
+    "GFX/Resources/Low Poly Cartoon House Interiors.webp",
+    "GFX/Notes/Low Poly Forest Pack.md",
+    "GFX/Resources/Low Poly Forest Pack.webp",
+    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 3.md",
+    "GFX/Resources/Quirky Series - Animals Mega Pack Vol 2.webp",
+    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 2.md",
     "GFX/Notes/Mars Planet Environment.md",
     "GFX/Notes/Low Poly Vegetation Pack.md",
     "GFX/Notes/Low Poly Fruit Pickups.md",
@@ -209,32 +235,9 @@
     "GFX/Resources/Horse Animset Pro (Riding System).md",
     "GFX/Notes/Free Lowpoly Axe.md",
     "GFX/Resources/Forest Environment - Dynamic Nature.md",
-    "GFX/Resources/Bird Flock Bundle.md",
-    "GFX/Resources/Animated Hands with Gloves + HDRP 2019.3.md",
-    "GFX/Notes/Animals full pack.md",
     "GFX/Resources/Low Poly Fruit Pickups.webp",
-    "GFX/Notes/Spear And Halberd Animset.md",
-    "GFX/Notes/Adam Character Pack Adam, Guard, Lu.md",
     "GFX/Resources/Adam Character Pack Adam, Guard, Lu.webp",
-    "GFX/Notes/RPG Character Mecanim Animation Pack.md",
     "GFX/Resources/RPG Character Mecanim Animation Pack.webp",
-    "GFX/Resources/Free Lowpoly Axe.webp",
-    "GFX/Resources/Low Poly Vegetation Pack.webp",
-    "GFX/Notes/Realistic Hands - animated for VR.md",
-    "GFX/Resources/Realistic Hands - animated for VR.webp",
-    "GFX/Resources/Animals full pack.webp",
-    "GFX/Resources/Bird Flock Bundle.webp",
-    "GFX/Resources/Mars Planet Environment.webp",
-    "GFX/Resources/Life Candles Pack PBR.webp",
-    "GFX/Notes/Low Poly Ultimate Pack.md",
-    "b9202f10-284c-4671-8da5-085015ed6f53.webp.md",
-    "GFX/Notes/BIRDS PACK.md",
-    "GFX/Notes/Party Monster Rumble PBR.md",
-    "GFX/Notes/Monsters Ultimate Pack 02 Cute Series.md",
-    "GFX/Notes/Forest animals.md",
-    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 3.md",
-    "GFX/Shaders.canvas",
-    "GFX/UI.canvas",
     "Tutorials/Resources",
     "GFX/Notes/todo.txt",
     "GFX/Notes/GUI Wooden 2.md.txt",

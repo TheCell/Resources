@@ -1,23 +1,18 @@
 {
 	"nodes":[
-		{"id":"fa0a282ca28e1b20","x":1872,"y":821,"width":400,"height":400,"type":"file","file":"GFX/Notes/White mage spells.md"},
-		{"id":"e1596f0d0ea1eeb4","type":"file","file":"GFX/Notes/Ultimate Outlines & Highlights.md","x":1864,"y":355,"width":400,"height":400},
-		{"id":"15c04e6da4da7d3c","type":"file","file":"GFX/Notes/Stylized VFX.md","x":1832,"y":-126,"width":400,"height":400},
-		{"id":"6f3295305c3a8c29","type":"file","file":"GFX/Notes/RPG VFX Bundle.md","x":1407,"y":337,"width":400,"height":400},
-		{"id":"b12da1c8271edf1c","type":"file","file":"GFX/Notes/Quibli Anime Shaders and Tools.md","x":967,"y":784,"width":400,"height":400},
-		{"id":"b6fde0aebd7a9f41","type":"file","file":"GFX/Notes/Particle Pack.md","x":79,"y":787,"width":400,"height":400},
-		{"id":"63dbbee9e7d23c07","type":"file","file":"GFX/Notes/Camera Fade Pack.md","x":-353,"y":328,"width":400,"height":400},
-		{"id":"d291fe3236cf74cb","type":"file","file":"GFX/Resources/retro master shader.md","x":-353,"y":-121,"width":400,"height":400},
-		{"id":"2a07e8452ad3097e","type":"file","file":"GFX/Notes/All In 1 Sprite Shader.md","x":80,"y":-121,"width":400,"height":400},
-		{"id":"caa3a759ca2201bc","type":"file","file":"GFX/Notes/Amplify LUT Pack.md","x":520,"y":-121,"width":400,"height":400},
-		{"id":"20f12fc1af4bdb44","type":"file","file":"GFX/Notes/Brute Force - Snow & Ice Shader.md","x":960,"y":-121,"width":400,"height":400},
-		{"id":"94a27776e17d7551","type":"file","file":"GFX/Notes/Flat Kit Toon Shading and Water.md","x":80,"y":328,"width":400,"height":400},
-		{"id":"6d49c7cac6a4db11","type":"file","file":"GFX/Notes/HQ Realistic explosions.md","x":520,"y":328,"width":400,"height":400},
-		{"id":"1bf0d1766a749f4b","type":"file","file":"GFX/Notes/Ian's Fire Pack.md","x":960,"y":328,"width":400,"height":400},
-		{"id":"f819acc2324c1912","type":"file","file":"GFX/Notes/Liquid Volume Pro 2.md","x":-353,"y":780,"width":400,"height":400},
-		{"id":"86015cc8fcfe2dbf","type":"file","file":"GFX/Notes/ProPixelizer - Realtime 3D Pixel Art.md","x":520,"y":787,"width":400,"height":400},
-		{"id":"f9718d32cdb647d6","type":"file","file":"GFX/Notes/Realistic Effects Pack 4.md","x":1400,"y":-121,"width":400,"height":400},
-		{"id":"a3cc049106151fdf","type":"file","file":"GFX/Notes/Stylized Element Splash Package vol.1.md","x":1407,"y":800,"width":400,"height":400}
+		{"id":"d291fe3236cf74cb","type":"file","file":"GFX/Resources/retro master shader.md","x":-394,"y":-121,"width":400,"height":400},
+		{"id":"94a27776e17d7551","type":"file","file":"GFX/Notes/Flat Kit Toon Shading and Water.md","x":38,"y":-121,"width":400,"height":400},
+		{"id":"caa3a759ca2201bc","type":"file","file":"GFX/Notes/Amplify LUT Pack.md","x":479,"y":-121,"width":400,"height":400},
+		{"id":"b6fde0aebd7a9f41","type":"file","file":"GFX/Notes/Particle Pack.md","x":-394,"y":328,"width":400,"height":400},
+		{"id":"6d49c7cac6a4db11","type":"file","file":"GFX/Notes/HQ Realistic explosions.md","x":38,"y":328,"width":400,"height":400},
+		{"id":"86015cc8fcfe2dbf","type":"file","file":"GFX/Notes/ProPixelizer - Realtime 3D Pixel Art.md","x":479,"y":328,"width":400,"height":400},
+		{"id":"1bf0d1766a749f4b","type":"file","file":"GFX/Notes/Ian's Fire Pack.md","x":920,"y":328,"width":400,"height":400},
+		{"id":"20f12fc1af4bdb44","type":"file","file":"GFX/Notes/Brute Force - Snow & Ice Shader.md","x":920,"y":-121,"width":400,"height":400},
+		{"id":"6f3295305c3a8c29","type":"file","file":"GFX/Notes/RPG VFX Bundle.md","x":1367,"y":-121,"width":400,"height":400},
+		{"id":"15c04e6da4da7d3c","type":"file","file":"GFX/Notes/Stylized VFX.md","x":1807,"y":-121,"width":400,"height":400},
+		{"id":"a3cc049106151fdf","type":"file","file":"GFX/Notes/Stylized Element Splash Package vol.1.md","x":1367,"y":328,"width":400,"height":400},
+		{"id":"e1596f0d0ea1eeb4","type":"file","file":"GFX/Notes/Ultimate Outlines & Highlights.md","x":1807,"y":328,"width":400,"height":400},
+		{"id":"b12da1c8271edf1c","type":"file","file":"GFX/Notes/Quibli Anime Shaders and Tools.md","x":-394,"y":780,"width":400,"height":400}
 	],
 	"edges":[]
 }
