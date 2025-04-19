@@ -10,48 +10,38 @@
           {
             "id": "5be2ce38e52f1dab",
             "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "705ff95b37718cb8",
-            "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GFX/Notes/Spear And Halberd Animset.md",
+                "file": "GFX/Notes/1-Bit Input Prompts Pixel 16×.md",
                 "mode": "source",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Spear And Halberd Animset"
+              "title": "1-Bit Input Prompts Pixel 16×"
             }
           },
           {
-            "id": "3f2cd85787457694",
+            "id": "d5ab2a3752700449",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "GFX/UI.canvas",
+                "file": "GFX/Assets.canvas",
                 "viewState": {
-                  "x": 867.4500224631602,
-                  "y": 752.1008280841318,
-                  "zoom": -2.6558019996530695
+                  "x": 1655.3186321188387,
+                  "y": 110.42235393957836,
+                  "zoom": -1.1946219403044436
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "UI"
+              "title": "Assets"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,46 +188,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f2cd85787457694",
+  "active": "c0541ab0d6b7f0a5",
   "lastOpenFiles": [
-    "GFX/Shaders.canvas",
-    "GFX/UI.canvas",
-    "GFX/VFX.md",
+    "GFX/Notes/Block Pack.md",
     "GFX/Assets.canvas",
-    "GFX/Notes/Medical Equipments.md",
-    "GFX/Notes/Science Research Lab.md",
-    "GFX/Notes/Camera Fade Pack.md",
-    "GFX/Resources/Horse Animset Pro (Riding System).webp",
-    "GFX/Resources/Low Poly Ultimate Pack.webp",
-    "GFX/Notes/POLYGON Western - Low Poly 3D Art by Synty.md",
-    "GFX/Resources/Animated Hands with Gloves + HDRP 2019.3.md",
-    "GFX/Resources/Animated Hands with Gloves + HDRP 2019.3.webp",
-    "GFX/Notes/Black Crusader UI.md",
-    "GFX/Notes/ArchVizPRO Interior Vol.7 URP.md",
-    "GFX/Notes/Animals full pack.md",
-    "GFX/Notes/Amplify LUT Pack.md",
-    "GFX/Notes/All In 1 Sprite Shader.md",
-    "GFX/Notes/Spear And Halberd Animset.md",
-    "GFX/Resources/Liquid Volume Pro 2.webp",
-    "GFX/Resources/Low Poly Cartoon House Interiors.webp",
-    "GFX/Notes/Low Poly Forest Pack.md",
-    "GFX/Resources/Low Poly Forest Pack.webp",
-    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 3.md",
-    "GFX/Resources/Quirky Series - Animals Mega Pack Vol 2.webp",
-    "GFX/Notes/Quirky Series - Animals Mega Pack Vol 2.md",
-    "GFX/Notes/Mars Planet Environment.md",
-    "GFX/Notes/Low Poly Vegetation Pack.md",
-    "GFX/Notes/Low Poly Fruit Pickups.md",
-    "GFX/Notes/Low Poly Animated People.md",
-    "GFX/Notes/Low Poly Animated Animals.md",
-    "GFX/Resources/Life Candles Pack PBR.md",
-    "GFX/Notes/House Furniture Pack.md",
-    "GFX/Resources/Horse Animset Pro (Riding System).md",
-    "GFX/Notes/Free Lowpoly Axe.md",
-    "GFX/Resources/Forest Environment - Dynamic Nature.md",
-    "GFX/Resources/Low Poly Fruit Pickups.webp",
-    "GFX/Resources/Adam Character Pack Adam, Guard, Lu.webp",
-    "GFX/Resources/RPG Character Mecanim Animation Pack.webp",
+    "GFX/Notes/Isometric Miniature Bases.md",
+    "GFX/Notes/Rune Pack.md",
+    "GFX/Notes/Sketch Desert.md",
+    "GFX/Notes/Pixel Platformer Industrial Expansion.md",
+    "GFX/Notes/Pixel Platformer Farm Expansion.md",
+    "GFX/Notes/Pixel Platformer.md",
+    "GFX/UI.canvas",
+    "GFX/Notes/Tiny Battle.md",
+    "GFX/Notes/Tiny Ski.md",
+    "GFX/Notes/Onscreen Controls.md",
+    "GFX/Notes/Fantasy UI Borders.md",
+    "GFX/Resources/Onscreen Controls.png",
+    "GFX/Notes/1-Bit Input Prompts Pixel 16×.md",
+    "GFX/Resources/Rune Pack.png",
+    "GFX/Resources/Fantasy UI Borders.png",
+    "GFX/Notes/Monochrome Pirates.md",
+    "GFX/Resources/Monochrome Pirates.png",
+    "GFX/Notes/Shape Characters.md",
+    "GFX/Resources/Shape Characters.png",
+    "GFX/Resources/Pixel Platformer.png",
+    "GFX/Notes/Pixel Platformer Food Expansion.md",
+    "GFX/Resources/Pixel Platformer Food Expansion.png",
+    "GFX/Notes/Pico-8 City.md",
+    "GFX/Resources/Pico-8 City.png",
+    "GFX/Resources/Tiny Battle.png",
+    "GFX/Resources/Isometric Miniature Bases.png",
+    "GFX/Notes/Planets.md",
+    "GFX/Notes/Minimap Pack.md",
+    "GFX/Notes/Board Game Icons.md",
+    "GFX/Notes/Cursor Pixel Pack.md",
+    "GFX/GFX.md",
+    "GFX/Notes/Cursor Pack.md",
+    "GFX/Notes/Googly Eyes.md",
+    "GFX/Notes/Input Prompts.md",
+    "GFX/Notes/Pico-8 Platformer.md",
+    "GFX/Shaders.canvas",
     "Tutorials/Resources",
     "GFX/Notes/todo.txt",
     "GFX/Notes/GUI Wooden 2.md.txt",
