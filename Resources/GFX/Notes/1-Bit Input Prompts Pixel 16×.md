@@ -3,8 +3,9 @@ tags:
   - asset
   - tile
 up: "[[GFX]]"
+side: "[[Input Prompts Pixel 16×]]"
 ---
-[https://www.kenney.nl/assets/1-bit-input-prompts-pixel-16](https://www.kenney.nl/assets/1-bit-input-prompts-pixel-**16**)
+[https://www.kenney.nl/assets/1-bit-input-prompts-pixel-16](https://www.kenney.nl/assets/1-bit-input-prompts-pixel-16)
 ![[1-Bit Input Prompts Pixel 16×.png]]
 
 16x16
