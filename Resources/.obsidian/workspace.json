@@ -53,7 +53,7 @@
                 "viewState": {
                   "x": 641.9071611986869,
                   "y": 2865.656042889385,
-                  "zoom": -1.1102230246251565e-16
+                  "zoom": -1.9999999999999998
                 }
               },
               "pinned": true,
@@ -62,13 +62,17 @@
             }
           },
           {
-            "id": "8e2c8f1a43b0e57e",
+            "id": "e93e73c1a4a3125a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Code/Chroma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chroma"
             }
           }
         ],
@@ -145,6 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Code/Chroma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chroma"
             }
           },
           {
@@ -163,11 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Code/Chroma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Chroma"
             }
           },
           {
@@ -214,13 +220,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "c0541ab0d6b7f0a5",
+  "active": "e93e73c1a4a3125a",
   "lastOpenFiles": [
-    "GFX/Notes/Crafting Mecanim Animation Pack.md",
+    "Code/Notefiles",
+    "Code/Notefiles/Chroma_Deuteranopia.avif",
+    "Code/Notefiles/Chroma_Grayscale.avif",
+    "Code/Code.md",
     "GFX/Assets.canvas",
+    "Code/Chroma.md",
+    "Tutorials/Programming/Complete Godot 4 2D Code Your Own 2D Games In Godot 4.md",
+    "Tutorials/Tutorials.md",
+    "Tutorials/UI Series/UI Series Table of Content.md",
+    "Code",
+    "Tutorials/UI Series/UI, Part 4 The Widget Is A Lie (Node Composition).md",
+    "Tutorials/UI Series/UI, Part 3 The Widget Building Language.md",
+    "Tutorials/UI Series/UI, Part 1 The Interaction Medium.md",
+    "Tutorials/UI Series/UI, Part 2 Every Single Frame (IMGUI).md",
+    "GFX/Notes/3D Dungeon Tileset & Asset Pack.md",
+    "GFX/Notes/Crafting Mecanim Animation Pack.md",
     "GFX/Notes/rune generator.md",
     "GFX/Notes/Stylized VFX.md",
     "Tutorials/UI Series/UI, Part 10 Simple Single-Line Text Input.md",
@@ -229,16 +250,11 @@
     "Tutorials/UI Series/UI, Part 7 Where IMGUI Ends.md",
     "Tutorials/UI Series/UI, Part 6 Rendering.md",
     "Tutorials/UI Series/UI, Part 5 Visual Content.md",
-    "Tutorials/UI Series/UI, Part 4 The Widget Is A Lie (Node Composition).md",
-    "Tutorials/UI Series/UI, Part 3 The Widget Building Language.md",
-    "Tutorials/UI Series/UI, Part 1 The Interaction Medium.md",
-    "Tutorials/UI Series/UI, Part 2 Every Single Frame (IMGUI).md",
     "Tutorials/UI Series/af002ebc-a538-46d0-aa32-2c1538fd1bcf_845x34.png",
     "Tutorials/UI Series/d2df56d5-e071-4233-b83c-d41a8ea50c92_1091x132.png",
     "Tutorials/UI Series/990a32cb-afdd-451e-90e8-52961e826464_890x813.png",
     "Tutorials/UI Series/8c0e36d9-466b-4b2e-b4e7-8c0a432949a9_244x199.png",
     "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
-    "Tutorials/UI Series/UI Series Table of Content.md",
     "Tutorials/UI Series",
     "GFX/Notes/Pixel Art Platformer - Dungeon.md",
     "GFX/UI.canvas",
@@ -246,18 +262,10 @@
     "GFX/Notes/1-Bit Input Prompts Pixel 16×.md",
     "GFX/Notes/1-Bit Platformer Pack.md",
     "GFX/Notes/RPG Character Mecanim Animation Pack.md",
-    "GFX/Notes/Spear And Halberd Animset.md",
-    "GFX/Notes/SpellBook Megapack.md",
-    "GFX/Notes/RPG MMO Three PC Mobile UI.md",
-    "GFX/Notes/Arcane Accessories 3D Asset Pack.md",
-    "GFX/Notes/Toon Fantasy Nature.md",
-    "GFX/Notes/Adam Character Pack Adam, Guard, Lu.md",
     "GFX/Resources/Particle Pack.png",
     "GFX/Resources/Simplified Platformer Pack.png",
     "GFX/Resources/Emotes Pack.png",
     "GFX/Resources/RPG Urban Pack.png",
-    "GFX/Resources/Isometric Miniature Prototype.png",
-    "GFX/Resources/Isometric Miniature Library.png",
     "GFX/Shaders.canvas",
     "Tutorials/Resources",
     "GFX/Notes/todo.txt",
@@ -266,7 +274,6 @@
     "GFX/Notes/GUI Blue Sky.md.txt",
     "GFX/Notes/Brontes RPG MMO Game Interface.md.txt",
     "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md.txt",
-    "GFX/Notes/Halloween Party GUI Pack.md.txt",
-    "GFX/Notes/Christmas Icons GUI Pack.md.txt"
+    "GFX/Notes/Halloween Party GUI Pack.md.txt"
   ]
 }
