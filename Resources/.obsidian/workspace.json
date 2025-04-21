@@ -8,75 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5be2ce38e52f1dab",
+            "id": "86a44d2080643335",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GFX/Notes/1-Bit Input Prompts Pixel 16×.md",
+                "file": "Code/Surface-Stable Fractal Dithering.md",
                 "mode": "source",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "1-Bit Input Prompts Pixel 16×"
+              "title": "Surface-Stable Fractal Dithering"
             }
           },
           {
-            "id": "d8cdf48d33c09218",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GFX/UI.canvas",
-                "viewState": {
-                  "x": 5091.558782085375,
-                  "y": 5065.1279663131245,
-                  "zoom": -2.6666666666666665
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "UI"
-            }
-          },
-          {
-            "id": "08eba91018c8f617",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "GFX/Assets.canvas",
-                "viewState": {
-                  "x": 641.9071611986869,
-                  "y": 2865.656042889385,
-                  "zoom": -1.9999999999999998
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Assets"
-            }
-          },
-          {
-            "id": "e93e73c1a4a3125a",
+            "id": "66e46fb2b82c65df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Chroma.md",
+                "file": "Code/Maskito.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Chroma"
+              "title": "Maskito"
+            }
+          },
+          {
+            "id": "201e462a3afeaf33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organisation/arc42 Template.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "arc42 Template"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Chroma.md",
+                "file": "Organisation/arc42 Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chroma"
+              "title": "Backlinks for arc42 Template"
             }
           },
           {
@@ -168,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Chroma.md",
+                "file": "Organisation/arc42 Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chroma"
+              "title": "Outgoing links from arc42 Template"
             }
           },
           {
@@ -224,56 +200,56 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e93e73c1a4a3125a",
+  "active": "201e462a3afeaf33",
   "lastOpenFiles": [
-    "Code/Notefiles",
-    "Code/Notefiles/Chroma_Deuteranopia.avif",
-    "Code/Notefiles/Chroma_Grayscale.avif",
-    "Code/Code.md",
+    "Organisation/Notefiles/02-constraints-overview.png",
+    "Code/Wave Simulator (Interactive).md",
+    "Code/Notefiles/Pasted image 20250421230445.png",
+    "Code/Surface-Stable Fractal Dithering.md",
+    "Code/Mesh Anything.md",
+    "Code/Notefiles/demo_video.gif",
+    "Code/ImHex.md",
+    "Code/Notefiles/403523006-58eefa1f-31c9-4bb8-a1c1-8cdd8ddbd29f.png",
+    "Code/Notefiles/403520355-902a7c4c-410d-490f-999e-14c856fec027.png",
+    "Code/Notefiles/ImHexLogoSVGBG.svg",
+    "Code/Ant Design.md",
+    "Code/Notefiles/209472919-6f7e8561-be8c-4b0b-9976-eb3c692aa20a.png",
+    "Code/Notefiles/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667.svg",
+    "Code/POP Buffer Demo.md",
+    "Code/Maskito.md",
+    "Code/Notefiles/level_finest.png",
+    "Code/Notefiles/level_finer.png",
+    "Code/Notefiles/level_middle.png",
+    "Code/Godot deformable mesh.md",
+    "Code/Inspector History for Unity.md",
+    "Code/signed-heat-3d (3D volumetric domains).md",
+    "Organisation/arc42 Template.md",
+    "Organisation/Notefiles",
+    "Organisation/Organisation.md",
+    "Code/Openapi Generator.md",
+    "Organisation",
+    "Code/DeepSkyStacker.md",
+    "Code/Micro Racer Car - StuckAtPrototype.md",
     "GFX/Assets.canvas",
+    "Code/Beehave.md",
     "Code/Chroma.md",
+    "Code/Code.md",
+    "Code/Faker Javascript.md",
+    "Code/immich.md",
+    "Code/Papercut SMTP.md",
+    "Code/W.A.L.D.O. Whereabouts Ascertainment for Low-lying Detectable Objects.md",
+    "Code/webgpu shallow water.md",
+    "Code/Notefiles",
     "Tutorials/Programming/Complete Godot 4 2D Code Your Own 2D Games In Godot 4.md",
     "Tutorials/Tutorials.md",
-    "Tutorials/UI Series/UI Series Table of Content.md",
     "Code",
-    "Tutorials/UI Series/UI, Part 4 The Widget Is A Lie (Node Composition).md",
-    "Tutorials/UI Series/UI, Part 3 The Widget Building Language.md",
-    "Tutorials/UI Series/UI, Part 1 The Interaction Medium.md",
-    "Tutorials/UI Series/UI, Part 2 Every Single Frame (IMGUI).md",
-    "GFX/Notes/3D Dungeon Tileset & Asset Pack.md",
-    "GFX/Notes/Crafting Mecanim Animation Pack.md",
-    "GFX/Notes/rune generator.md",
-    "GFX/Notes/Stylized VFX.md",
-    "Tutorials/UI Series/UI, Part 10 Simple Single-Line Text Input.md",
-    "Tutorials/UI Series/UI, Part 9 Keyboard and Gamepad Navigation.md",
-    "Tutorials/UI Series/UI, Part 8 State Mutation, Jank, and Hotkeys.md",
-    "Tutorials/UI Series/UI, Part 7 Where IMGUI Ends.md",
-    "Tutorials/UI Series/UI, Part 6 Rendering.md",
-    "Tutorials/UI Series/UI, Part 5 Visual Content.md",
-    "Tutorials/UI Series/af002ebc-a538-46d0-aa32-2c1538fd1bcf_845x34.png",
-    "Tutorials/UI Series/d2df56d5-e071-4233-b83c-d41a8ea50c92_1091x132.png",
-    "Tutorials/UI Series/990a32cb-afdd-451e-90e8-52961e826464_890x813.png",
-    "Tutorials/UI Series/8c0e36d9-466b-4b2e-b4e7-8c0a432949a9_244x199.png",
-    "Tutorials/Programming/Math For Video Games Build Better Games Faster With Advanced Game Math.md",
     "Tutorials/UI Series",
-    "GFX/Notes/Pixel Art Platformer - Dungeon.md",
     "GFX/UI.canvas",
-    "GFX/Notes/1-Bit Pack.md",
-    "GFX/Notes/1-Bit Input Prompts Pixel 16×.md",
-    "GFX/Notes/1-Bit Platformer Pack.md",
-    "GFX/Notes/RPG Character Mecanim Animation Pack.md",
-    "GFX/Resources/Particle Pack.png",
-    "GFX/Resources/Simplified Platformer Pack.png",
-    "GFX/Resources/Emotes Pack.png",
-    "GFX/Resources/RPG Urban Pack.png",
     "GFX/Shaders.canvas",
     "Tutorials/Resources",
     "GFX/Notes/todo.txt",
     "GFX/Notes/GUI Wooden 2.md.txt",
     "GFX/Notes/2D Icons 150 Space Rank.md.txt",
-    "GFX/Notes/GUI Blue Sky.md.txt",
-    "GFX/Notes/Brontes RPG MMO Game Interface.md.txt",
-    "GFX/Notes/2D Pixel Quest Vol.3 The UI GUI.md.txt",
-    "GFX/Notes/Halloween Party GUI Pack.md.txt"
+    "GFX/Notes/GUI Blue Sky.md.txt"
   ]
 }
