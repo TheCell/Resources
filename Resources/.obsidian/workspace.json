@@ -24,35 +24,21 @@
             }
           },
           {
-            "id": "66e46fb2b82c65df",
+            "id": "d4c1ba49d9e1226d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Maskito.md",
+                "file": "Code/Jolt Physics.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Maskito"
-            }
-          },
-          {
-            "id": "201e462a3afeaf33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organisation/arc42 Template.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "arc42 Template"
+              "title": "Jolt Physics"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organisation/arc42 Template.md",
+                "file": "Code/Jolt Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for arc42 Template"
+              "title": "Backlinks for Jolt Physics"
             }
           },
           {
@@ -144,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organisation/arc42 Template.md",
+                "file": "Code/Jolt Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from arc42 Template"
+              "title": "Outgoing links from Jolt Physics"
             }
           },
           {
@@ -200,48 +186,48 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "201e462a3afeaf33",
+  "active": "c0541ab0d6b7f0a5",
   "lastOpenFiles": [
-    "Organisation/Notefiles/02-constraints-overview.png",
-    "Code/Wave Simulator (Interactive).md",
-    "Code/Notefiles/Pasted image 20250421230445.png",
+    "Code/Notefiles/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f707779435730794e4b4d412f687164656661756c742e6a7067.jpg",
+    "Code/Notefiles/68747470733a2f2f6a726f7577652e6e6c2f6a6f6c742f486f72697a6f6e5f466f7262696464656e5f576573742e706e67.png",
     "Code/Surface-Stable Fractal Dithering.md",
-    "Code/Mesh Anything.md",
-    "Code/Notefiles/demo_video.gif",
-    "Code/ImHex.md",
-    "Code/Notefiles/403523006-58eefa1f-31c9-4bb8-a1c1-8cdd8ddbd29f.png",
-    "Code/Notefiles/403520355-902a7c4c-410d-490f-999e-14c856fec027.png",
-    "Code/Notefiles/ImHexLogoSVGBG.svg",
-    "Code/Ant Design.md",
-    "Code/Notefiles/209472919-6f7e8561-be8c-4b0b-9976-eb3c692aa20a.png",
-    "Code/Notefiles/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f4b4470677667754d704766716148506a6963524b2e737667.svg",
-    "Code/POP Buffer Demo.md",
+    "Code/Jolt Physics.md",
+    "Code/SuperSplat - 3D Gaussian Splat Editor.md",
+    "Code/Notefiles/402293223-b6cbb5cc-d3cc-4385-8c71-ab2807fd4fba.png",
+    "Code/Awesome 3D Gaussian Splatting.md",
+    "Code/p5.brush.md",
+    "Code/Notefiles/teaser 1.gif",
+    "Code/Notefiles/Pasted image 20250421234120.png",
+    "Code/Notefiles/239695690-90ef7e7b-48f3-4f46-8d4a-5b5bcc3254b3.png",
+    "Code/Notefiles/307898342-da1af7fe-f808-43dc-8f59-c579715d6593.png",
+    "Link Collection.md",
+    "Code/Notefiles/Pasted image 20250421234131.png",
+    "Code/The FreeMoCap Project.md",
+    "Code/Faker Javascript.md",
+    "Code/Notefiles/image1.png",
+    "Code/spectral.js.md",
+    "Code/Notefiles/image3.png",
+    "Code/Notefiles/image2.png",
+    "Tutorials/Programming/Artificial Intelligence for Beginners - A Curriculum.md",
+    "Code/APFramework UI System.md",
+    "Code/ExcaliburHash.md",
+    "Code/Gaia Physics Engine.md",
+    "Tutorials/Programming/Total Typescript.md",
     "Code/Maskito.md",
-    "Code/Notefiles/level_finest.png",
-    "Code/Notefiles/level_finer.png",
-    "Code/Notefiles/level_middle.png",
+    "Code/Wave Simulator (Interactive).md",
+    "Organisation/Organisation.md",
+    "Tutorials/Tutorials.md",
+    "Organisation/arc42 Template.md",
+    "Code/Mesh Anything.md",
+    "Code/ImHex.md",
+    "Code/Ant Design.md",
+    "Code/POP Buffer Demo.md",
     "Code/Godot deformable mesh.md",
     "Code/Inspector History for Unity.md",
-    "Code/signed-heat-3d (3D volumetric domains).md",
-    "Organisation/arc42 Template.md",
     "Organisation/Notefiles",
-    "Organisation/Organisation.md",
-    "Code/Openapi Generator.md",
     "Organisation",
-    "Code/DeepSkyStacker.md",
-    "Code/Micro Racer Car - StuckAtPrototype.md",
     "GFX/Assets.canvas",
-    "Code/Beehave.md",
-    "Code/Chroma.md",
-    "Code/Code.md",
-    "Code/Faker Javascript.md",
-    "Code/immich.md",
-    "Code/Papercut SMTP.md",
-    "Code/W.A.L.D.O. Whereabouts Ascertainment for Low-lying Detectable Objects.md",
-    "Code/webgpu shallow water.md",
     "Code/Notefiles",
-    "Tutorials/Programming/Complete Godot 4 2D Code Your Own 2D Games In Godot 4.md",
-    "Tutorials/Tutorials.md",
     "Code",
     "Tutorials/UI Series",
     "GFX/UI.canvas",

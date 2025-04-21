@@ -1,3 +1,3 @@
 ---
-up: [[Link Collection]]
+up: "[[Link Collection]]"
 ---
