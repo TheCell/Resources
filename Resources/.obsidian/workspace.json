@@ -26,19 +26,43 @@
           {
             "id": "d4c1ba49d9e1226d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Jolt Physics.md",
+                "file": "Code/CellPond.md",
                 "mode": "source",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Jolt Physics"
+              "title": "CellPond"
+            }
+          },
+          {
+            "id": "3655f60a98d80f3d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Code/Notefiles/219482853-ac964fbd-a40f-4507-851a-5152c12d71f8.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "219482853-ac964fbd-a40f-4507-851a-5152c12d71f8"
+            }
+          },
+          {
+            "id": "b6dedb685c18007c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Jolt Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jolt Physics"
+              "title": "Backlinks"
             }
           },
           {
@@ -130,12 +153,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Jolt Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jolt Physics"
+              "title": "Outgoing links"
             }
           },
           {
@@ -186,28 +208,36 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c0541ab0d6b7f0a5",
+  "active": "b6dedb685c18007c",
   "lastOpenFiles": [
-    "Code/Notefiles/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f707779435730794e4b4d412f687164656661756c742e6a7067.jpg",
-    "Code/Notefiles/68747470733a2f2f6a726f7577652e6e6c2f6a6f6c742f486f72697a6f6e5f466f7262696464656e5f576573742e706e67.png",
+    "Code/Notefiles/FlipDot-DIP-pins.png",
+    "Link Collection.md",
+    "Code/Notefiles/219482853-ac964fbd-a40f-4507-851a-5152c12d71f8.jpeg",
+    "Code/glob match.md",
+    "Code/CellPond.md",
+    "Code/Flip Dots.md",
+    "Code/Notefiles/FlipDot-controller.png",
+    "Code/Notefiles/Pasted image 20250422002246.png",
+    "Code/Notefiles/FlipDot-controller.gif",
+    "Code/Tangle.md",
+    "Code/Instant Pipes.md",
+    "Code/Notefiles/239745909-a076dcf6-21d2-46b1-80c9-70cdbd59b00e.png",
+    "Code/Notefiles/239745930-912f3879-1d82-4408-8cef-2698b82608a0.gif",
+    "Code/Generative Agents Interactive Simulacra of Human Behavior.md",
+    "Code/Notefiles/cover.png",
+    "Code/Shortest-Path-to-Boundary-for-Self-Intersecting-Meshes.md",
+    "Code/The vsvg project (incl. whiskers and msvg).md",
+    "Code/Mesh Cutting.md",
     "Code/Surface-Stable Fractal Dithering.md",
     "Code/Jolt Physics.md",
+    "Code/Notefiles/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f707779435730794e4b4d412f687164656661756c742e6a7067.jpg",
+    "Code/Notefiles/68747470733a2f2f6a726f7577652e6e6c2f6a6f6c742f486f72697a6f6e5f466f7262696464656e5f576573742e706e67.png",
     "Code/SuperSplat - 3D Gaussian Splat Editor.md",
-    "Code/Notefiles/402293223-b6cbb5cc-d3cc-4385-8c71-ab2807fd4fba.png",
     "Code/Awesome 3D Gaussian Splatting.md",
     "Code/p5.brush.md",
-    "Code/Notefiles/teaser 1.gif",
-    "Code/Notefiles/Pasted image 20250421234120.png",
-    "Code/Notefiles/239695690-90ef7e7b-48f3-4f46-8d4a-5b5bcc3254b3.png",
-    "Code/Notefiles/307898342-da1af7fe-f808-43dc-8f59-c579715d6593.png",
-    "Link Collection.md",
-    "Code/Notefiles/Pasted image 20250421234131.png",
     "Code/The FreeMoCap Project.md",
     "Code/Faker Javascript.md",
-    "Code/Notefiles/image1.png",
     "Code/spectral.js.md",
-    "Code/Notefiles/image3.png",
-    "Code/Notefiles/image2.png",
     "Tutorials/Programming/Artificial Intelligence for Beginners - A Curriculum.md",
     "Code/APFramework UI System.md",
     "Code/ExcaliburHash.md",
@@ -215,15 +245,6 @@
     "Tutorials/Programming/Total Typescript.md",
     "Code/Maskito.md",
     "Code/Wave Simulator (Interactive).md",
-    "Organisation/Organisation.md",
-    "Tutorials/Tutorials.md",
-    "Organisation/arc42 Template.md",
-    "Code/Mesh Anything.md",
-    "Code/ImHex.md",
-    "Code/Ant Design.md",
-    "Code/POP Buffer Demo.md",
-    "Code/Godot deformable mesh.md",
-    "Code/Inspector History for Unity.md",
     "Organisation/Notefiles",
     "Organisation",
     "GFX/Assets.canvas",
