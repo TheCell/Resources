@@ -77,7 +77,7 @@ It all comes down to the fact that doing O(2^N) programming work when N = 20 _by
 
 I feel that this is a very important point to drive home, because it’s very common to see core code designs that try to do something like this:
 
-```
+```c++
 enum UI_WidgetKind
 {
   UI_WidgetKind_Null,
@@ -118,7 +118,7 @@ What I’ve found to be a much more effective strategy than the above is to _con
 
 Sounds awesome, right?! Well, turns out it’s actually pretty boring at the end of the day:
 
-```
+```c++
 typedef U32 UI_WidgetFlags;
 enum
 {
@@ -146,7 +146,7 @@ Yup, that’s pretty much it—it’s just a mask that controls whether a per-wi
 
 A mental model that might help explain why this happens to be very powerful goes as follows. Take the following codepath:
 
-```
+```c++
 // do step A
 {
   ...
@@ -170,7 +170,7 @@ A mental model that might help explain why this happens to be very powerful goes
 
 And the corresponding “feature flags”:
 
-```
+```c++
 typedef U32 StepFlags;
 {
   StepFlag_A = (1<<0),
@@ -182,7 +182,7 @@ typedef U32 StepFlags;
 
 And some sample `StepFlags` values:
 
-```
+```c++
 0b0000
 0b1001
 0b1010
@@ -208,7 +208,7 @@ So, really, don’t worry about it. Doing simple back-of-the-napkin calculations
 
 Let’s iron out some specifics. If you’ll recall from [Part 2](https://ryanfleury.substack.com/p/ui-part-2-build-it-every-frame-immediate), I outlined some details on what `UI_Widget` would need in order to encode both hierarchy, and links into a cross-frame persistent cache table. I also outlined some basic per-widget data we’d need for simple animations, and a simple offline autolayout algorithm. Now, we also know we can allow our widgets to appear and act differently with feature flags. Here’s that whole picture so far:
 
-```
+```c++
 struct UI_Widget
 {
   // tree links
@@ -244,7 +244,7 @@ struct UI_Widget
 
 A very simple API that we can offer as the lowest level widget hierarchy building tools might look something like this:
 
-```
+```c++
 // basic key type helpers
 UI_Key UI_KeyNull(void);
 UI_Key UI_KeyFromString(String8 string);
@@ -269,7 +269,7 @@ UI_Widget *UI_PopParent(void);
 
 And finally, because this is an immediate-mode API and we allow the builder code to interleave input event consumption and regular procedural code with the widget hierarchy build, all we need is a place to implement actual user interaction with a widget:
 
-```
+```c++
 // still searching for a good name for this concept.
 // effectively it's a name for "interaction result",
 // which is just a bucket for information about all of
@@ -308,7 +308,7 @@ Interestingly, when reframing a problem this way, it turns out that “button”
 
 An actual implementation of `UI_Button` may look like this:
 
-```
+```c++
 B32 UI_Button(String8 string)
 {
   UI_Widget *widget = UI_WidgetMake(UI_WidgetFlag_Clickable|
@@ -325,7 +325,7 @@ B32 UI_Button(String8 string)
 
 In reality, I generally ditch returning `B32` here, and just return the whole `UI_Comm`, so my button calls turn into this:
 
-```
+```c++
 if(UI_ButtonF("Foo").clicked)
 {
   // the button was clicked!

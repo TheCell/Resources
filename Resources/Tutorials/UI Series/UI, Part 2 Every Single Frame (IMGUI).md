@@ -30,7 +30,7 @@ This is not acceptable, given the goals and constraints I’ve laid out. But the
 
 It's unclear to me when or where the first immediate mode interface was written, but it was _popularized_ in recent years by [Casey Muratori’s video on the subject](https://caseymuratori.com/blog_0001), in which he outlines an API design in which all code relating to one widget instance is entirely localized. The code for a button—its text, appearance, what happens when you click it, and everything else—is entirely local to one spot.
 
-```
+```c++
 if(UI_Button("Hello, World!"))
 {
   // this code runs when this button is clicked!
@@ -39,7 +39,7 @@ if(UI_Button("Hello, World!"))
 
 This same pattern can apply to every widget design.
 
-```
+```c++
 UI_Slider(&my_float, 0.0f, 100.0f, "My Float");
 UI_Checkbox(&my_bool, "My Bool");
 UI_Radio(&radio, 0, "Radio 0");
@@ -50,7 +50,7 @@ UI_ColorPicker(&color, "Color");
 
 The widget hierarchy is constructed on every frame of an application's runtime, instead of being a stateful tree that must be carefully managed and mutated. This means it gracefully responds to changes in the hierarchy, which can be easily encoded:
 
-```
+```c++
 UI_Checkbox(&show_buttons, "Show Buttons");
 if(show_buttons)
 {
@@ -72,7 +72,7 @@ These are all valid questions, which all are really asking about the problem of 
 
 One trivial layout solution, which is perhaps the simplest for the _core code_, is to simply manually specify the rectangle coordinates for each widget. So, instead of:
 
-```
+```c++
 if(UI_Button("Foo"))
 {
   // clicked
@@ -85,7 +85,7 @@ if(UI_Button("Bar"))
 
 We’d instead have:
 
-```
+```c++
 if(UI_Button(0, 0, 200, 30, "Foo"))
 {
   // clicked
@@ -100,7 +100,7 @@ That's pretty unfortunate for our **builder code**, though; adding a new button 
 
 But maybe that problem can be mitigated by just pulling out a layout offset:
 
-```
+```c++
 float h = 30;
 float y0 = 0;
 float y1 = y0 + h;
@@ -122,7 +122,7 @@ That is maybe a bit better for maintenance than specifying each pixel coordinate
 
 We can keep going, though.
 
-```
+```c++
 UI_Layout layout = UI_MakeLayout(...);
 if(UI_Button(&layout, "Foo"))
 {
@@ -138,7 +138,7 @@ That’s a bit better. We still have an extra parameter that we repeat, but that
 
 If we want to get rid of the `layout` parameter, we can simply notice that for any given codepath, it's very likely that one `layout` parameter is the same as that which came before it, or that which comes after it. Thus, we can instead phrase the API as having a “selected layout”, which can just be a global or thread-local contextual state:
 
-```
+```c++
 UI_Layout layout = UI_MakeLayout(...);
 UI_SelectLayout(&layout);
 if(UI_Button("Foo"))
@@ -168,7 +168,7 @@ What this means is that any given layout is _nested_ within another (or, alterna
 
 To start accounting for this, we cannot simply _select a layout_, and forget which layout was already selected. We need to _return_ to our “parent layout”, after we’re done building one subtree of widgets. The natural data structure we can use for walking a hierarchy and returning to a parent is a stack, which allows us to make our layouts hierarchical:
 
-```
+```c++
 UI_Layout layout = UI_MakeLayout(...);
 UI_PushLayout(&layout);
 if(UI_Button("Foo"))
@@ -190,7 +190,7 @@ For this reason, I’d reframe the hierarchy to being of _purely widgets_, meani
 
 With that in mind, our naming, and the type of `layout`, will change:
 
-```
+```c++
 UI_Widget *parent = ...;
 UI_PushParent(parent);
 if(UI_Button("Foo"))
@@ -285,7 +285,7 @@ There are probably a number of options you can choose for this algorithm, but I�
 
 First, let’s look at how “semantic sizes” are expressed in this algorithm:
 
-```
+```c++
 enum UI_SizeKind
 {
   UI_SizeKind_Null,
@@ -318,7 +318,7 @@ The `value` can be used to express meaningful content in all of those cases exce
 
 To encode the full “semantic size” of a widget, you’d just need one on two axes:
 
-```
+```c++
 enum Axis2
 {
   Axis2_X,
@@ -338,7 +338,7 @@ I’ll talk more about the `UI_Widget` type shortly—it will be the way we buil
 
 Now that we can encode a “semantic size”, let’s add a few more members to `UI_Widget`:
 
-```
+```c++
 // recomputed every frame
 F32 computed_rel_position[Axis2_COUNT];
 F32 computed_size[Axis2_COUNT];
@@ -372,7 +372,7 @@ That covers the general overview of the algorithm. It doesn’t solve everything
 
 For many immediate mode APIs, data structures are rebuilt on every pass of the code. There is no continuation between the last time the code ran, and the current time it is running. A great example of this would be an immediate mode rendering API:
 
-```
+```c++
 DrawSprite(...);
 DrawShadow(...);
 DrawRectangle(...);
@@ -389,7 +389,7 @@ _**Note:** Extra animations are always possible in builder code when required. B
 
 Imagine, first, that the `UI_Widget` type was purely an immediate-mode data structure that was rebuilt every frame, and we had no requirement of caching per-widget data across frames. As explained earlier, this data structure must encode an n-ary tree (to adequately encode the widget hierarchy). A very simple way to do that is with the following members:
 
-```
+```c++
 struct UI_Widget
 {
   UI_Widget *first;
@@ -409,7 +409,7 @@ With that structure, it should be fairly easy to imagine writing the core code t
 
 Now, ignore that structure. Imagine that `UI_Widget` is instead the type that is _only_ used for caching persistent data across frames. What does that look like?
 
-```
+```c++
 struct UI_Key { ... }; // some keying mechanism
 
 struct UI_Widget
@@ -426,7 +426,7 @@ This is just one simple way to do it, but the basic idea is to just throw these 
 
 So, if we just want _both_ of these capabilities in a single data structure, we just combine those two requirements into a single structure:
 
-```
+```c++
 struct UI_Widget
 {
   // tree links
@@ -456,7 +456,7 @@ So what is a `UI_Key` and how can we produce those? This is another one of those
 
 This is not as trivial as it first may seem. Many people will initially try to cleverly use source code coordinates (e.g. `__LINE__` and `__FILE__` in a C macro expansion) as a way to generate keys. But that, then, raises the question of what happens here:
 
-```
+```c++
 for(int i = 0; i < 100; i += 1)
 {
   UI_Button("I am a button!");
@@ -474,7 +474,7 @@ Ultimately, I’ve settled on using a strategy that comes from the very popular 
 
 Once you learn that mechanism, then the above example fairly simply extends to:
 
-```
+```c++
 for(int i = 0; i < 100; i += 1)
 {
   UI_Button("I am a button!##%i", i);
