@@ -4,6 +4,7 @@
 [https://www.gamedevmarket.net/](https://www.gamedevmarket.net/)
 [https://assetstore.unity.com/](https://assetstore.unity.com/)
 [https://www.fab.com/](https://www.fab.com/)
+[https://quaternius.com/](https://quaternius.com/)
 
 # Tutorials etc
 [https://www.redblobgames.com](https://www.redblobgames.com)
@@ -14,3 +15,10 @@
 [https://marian42.de/article/infinite-wfc/](https://marian42.de/article/infinite-wfc/)
 [https://aras-p.info/](https://aras-p.info/)
 [https://simonschreibt.de/](https://simonschreibt.de/)
+[https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)
+
+# Visualized Code
+Easing functions [https://easings.net/#](https://easings.net/#)
+
+# Paid
+[https://jettelly.com/store/the-unity-shaders-bible](https://jettelly.com/store/the-unity-shaders-bible)

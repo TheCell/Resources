@@ -9,7 +9,7 @@ up: "[[Code]]"
 ---
 [https://github.com/rvanwijnen/spectral.js](https://github.com/rvanwijnen/spectral.js)
 
-![[logo.png]]
+![[logo 1.png]]
 Spectral.js is a paint like color mixing library utilizing the Kubelka-Munk theory.
 
 # Spectral.js
