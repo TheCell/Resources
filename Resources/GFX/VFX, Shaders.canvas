@@ -13,7 +13,9 @@
 		{"id":"a3cc049106151fdf","type":"file","file":"GFX/Notes/Stylized Element Splash Package vol.1.md","x":1367,"y":328,"width":400,"height":400},
 		{"id":"e1596f0d0ea1eeb4","type":"file","file":"GFX/Notes/Ultimate Outlines & Highlights.md","x":1807,"y":328,"width":400,"height":400},
 		{"id":"b12da1c8271edf1c","type":"file","file":"GFX/Notes/Quibli Anime Shaders and Tools.md","x":-394,"y":780,"width":400,"height":400},
-		{"id":"f637a547c21f2af6","x":38,"y":780,"width":400,"height":400,"type":"file","file":"GFX/Notes/Proc Char Vfx.md"}
+		{"id":"f637a547c21f2af6","type":"file","file":"GFX/Notes/Proc Char Vfx.md","x":38,"y":780,"width":400,"height":400},
+		{"id":"860c4c3c9b1236bb","type":"file","file":"GFX/Notes/psx retroshader.md","x":479,"y":780,"width":400,"height":400},
+		{"id":"6f6c395f45b0a138","x":920,"y":780,"width":400,"height":400,"type":"file","file":"GFX/Notes/Kino Hatch.md"}
 	],
 	"edges":[]
 }

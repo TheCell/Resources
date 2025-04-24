@@ -56,17 +56,17 @@
             }
           },
           {
-            "id": "f4bfea48be6d97d1",
+            "id": "c66bed8e043d5b15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/digiOBSCURA - A DIY Image Sensor and Digital Camera.md",
+                "file": "Link Collection.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "digiOBSCURA - A DIY Image Sensor and Digital Camera"
+              "title": "Link Collection"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vfx",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,30 +215,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0541ab0d6b7f0a5",
+  "active": "c66bed8e043d5b15",
   "lastOpenFiles": [
-    "Code/Notefiles/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f50615877655037334e54342f302e6a7067.jpg",
+    "Code/Notefiles/screenshot2.jpg",
+    "Code/Blurry.md",
+    "Code/Notefiles/screenshot.jpg",
     "Code/p5js.md",
+    "Link Collection.md",
+    "Code/Mathfs.md",
+    "Code/Notefiles/BMeshUnity.png",
+    "Code/Notefiles/Wave.png",
+    "Code/Notefiles/NewScript.png",
+    "Code/Notefiles/NewObject.png",
+    "Code/Notefiles/Components.png",
+    "Tutorials/Programming/Vulkan Samples.md",
+    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
+    "Code/BMesh Unity.md",
+    "Code/Notefiles/PlaneGizmo.png",
+    "Code/Notefiles/Plane.png",
+    "GFX/VFX, Shaders.canvas",
+    "GFX/Notes/Kino Hatch.md",
+    "GFX/Notes/psx retroshader.md",
+    "GFX/Notes/HQ Realistic explosions.md",
+    "GFX/Resources/68747470733a2f2f692e696d6775722e636f6d2f694d4d585062532e706e67.png",
+    "GFX/Notes/Amplify LUT Pack.md",
     "Code/digiOBSCURA - A DIY Image Sensor and Digital Camera.md",
     "GFX/Notes/Marching Cubes On GPU.md",
-    "GFX/Notes/Amplify LUT Pack.md",
-    "GFX/Resources/Marching Cubes On GPU.png",
-    "GFX/Shaders.canvas",
     "GFX/VFX.md",
-    "Code/Notefiles/screen0.gif",
-    "Code/Notefiles/418698104-14e56496-9eab-4b31-ad05-6227d56cfbd2.png",
-    "GFX/Resources/Proc Char Vfx 2.gif",
     "GFX/Notes/Proc Char Vfx.md",
-    "Code/Notefiles/687474703a2f2f692e696d6775722e636f6d2f6f7635386851482e676966.gif",
-    "Code/Notefiles/687474703a2f2f692e696d6775722e636f6d2f4d4f36524c5a712e676966.gif",
-    "Code/Notefiles/68747470733a2f2f692e696d6775722e636f6d2f387162387335742e676966.gif",
-    "Code/Notefiles/68747470733a2f2f692e696d6775722e636f6d2f755463595950462e676966.gif",
-    "GFX/Resources/Proc Char Vfx 1.gif",
-    "GFX/Notes/HQ Realistic explosions.md",
     "GFX/Notes/45 Animated emojis 2D + Bubbles.md",
-    "Link Collection.md",
     "Code/MathUtilities.md",
-    "Code/Notefiles/687474703a2f2f692e696d6775722e636f6d2f5433703845704b2e676966.gif",
     "Code/dysts.md",
     "Code/math as code.md",
     "Code/Prettymaps.md",
@@ -247,13 +253,6 @@
     "Code/Noice.md",
     "Code/Unity Utils.md",
     "Code/Surface-Stable Fractal Dithering.md",
-    "Untitled.md",
-    "Code/CellPond.md",
-    "Code/glob match.md",
-    "Code/Flip Dots.md",
-    "Code/Tangle.md",
-    "Code/Instant Pipes.md",
-    "Code/Generative Agents Interactive Simulacra of Human Behavior.md",
     "Organisation/Notefiles",
     "Organisation",
     "GFX/Assets.canvas",
