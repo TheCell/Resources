@@ -40,37 +40,23 @@
             }
           },
           {
-            "id": "b6dedb685c18007c",
+            "id": "c66bed8e043d5b15",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/p5js.md",
+                "file": "Code/Conv Chain.md",
                 "mode": "source",
                 "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "p5js"
-            }
-          },
-          {
-            "id": "c66bed8e043d5b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Link Collection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Link Collection"
+              "title": "Conv Chain"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,29 +201,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c66bed8e043d5b15",
+  "active": "c0541ab0d6b7f0a5",
   "lastOpenFiles": [
-    "Code/Notefiles/screenshot2.jpg",
-    "Code/Blurry.md",
-    "Code/Notefiles/screenshot.jpg",
+    "Code/Conv Chain.md",
+    "Code/Notefiles/lotus.svg",
+    "Code/Notefiles/60907136-d0713000-a246-11e9-97a2-de9cb8ffa8cd.gif",
+    "Code/Hedera.md",
+    "Code/Themes.md",
+    "Code/Notefiles/roguelight.svg",
+    "Code/Notefiles/berry.svg",
+    "Code/Notefiles/frameio.svg",
+    "Code/Notefiles/pico8.svg",
+    "Code/Notefiles/mahou.svg",
+    "Code/Notefiles/tape.svg",
+    "Code/Notefiles/teenage.svg",
+    "Code/Notefiles/snow.svg",
+    "Code/Deform.md",
+    "Code/Shader Graph Node.md",
+    "Code/Orca.md",
+    "Code/patch based texture synthesis.md",
+    "Code/Texture Synthesis.md",
     "Code/p5js.md",
     "Link Collection.md",
+    "Code/Blurry.md",
     "Code/Mathfs.md",
-    "Code/Notefiles/BMeshUnity.png",
-    "Code/Notefiles/Wave.png",
-    "Code/Notefiles/NewScript.png",
-    "Code/Notefiles/NewObject.png",
-    "Code/Notefiles/Components.png",
     "Tutorials/Programming/Vulkan Samples.md",
     "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
     "Code/BMesh Unity.md",
-    "Code/Notefiles/PlaneGizmo.png",
-    "Code/Notefiles/Plane.png",
     "GFX/VFX, Shaders.canvas",
     "GFX/Notes/Kino Hatch.md",
     "GFX/Notes/psx retroshader.md",
     "GFX/Notes/HQ Realistic explosions.md",
-    "GFX/Resources/68747470733a2f2f692e696d6775722e636f6d2f694d4d585062532e706e67.png",
     "GFX/Notes/Amplify LUT Pack.md",
     "Code/digiOBSCURA - A DIY Image Sensor and Digital Camera.md",
     "GFX/Notes/Marching Cubes On GPU.md",
@@ -245,14 +239,6 @@
     "GFX/Notes/Proc Char Vfx.md",
     "GFX/Notes/45 Animated emojis 2D + Bubbles.md",
     "Code/MathUtilities.md",
-    "Code/dysts.md",
-    "Code/math as code.md",
-    "Code/Prettymaps.md",
-    "Code/unity frosted glass.md",
-    "Code/Terathon Math Library.md",
-    "Code/Noice.md",
-    "Code/Unity Utils.md",
-    "Code/Surface-Stable Fractal Dithering.md",
     "Organisation/Notefiles",
     "Organisation",
     "GFX/Assets.canvas",
