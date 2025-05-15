@@ -54,23 +54,9 @@
               "icon": "lucide-file",
               "title": "Conv Chain"
             }
-          },
-          {
-            "id": "ce0969ff2142f9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code/Shouldly.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Shouldly"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "godot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,11 +201,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0541ab0d6b7f0a5",
+  "active": "c66bed8e043d5b15",
   "lastOpenFiles": [
-    "Code/Notefiles/logo_350x84.png",
+    "Code/MarkItDown.md",
+    "Code/Collision Tutorial nerdyteachers.com.md",
     "Code/Conv Chain.md",
+    "Code/Notefiles/Pasted image 20250515212501.png",
+    "Code/Code.md",
+    "Code/Beehave.md",
+    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
     "Code/Shouldly.md",
+    "Code/Notefiles/logo_350x84.png",
     "Code/Notefiles/lotus.svg",
     "Code/Notefiles/60907136-d0713000-a246-11e9-97a2-de9cb8ffa8cd.gif",
     "Code/Hedera.md",
@@ -230,8 +222,6 @@
     "Code/Notefiles/pico8.svg",
     "Code/Notefiles/mahou.svg",
     "Code/Notefiles/tape.svg",
-    "Code/Notefiles/teenage.svg",
-    "Code/Notefiles/snow.svg",
     "Code/Deform.md",
     "Code/Shader Graph Node.md",
     "Code/Orca.md",
@@ -242,7 +232,6 @@
     "Code/Blurry.md",
     "Code/Mathfs.md",
     "Tutorials/Programming/Vulkan Samples.md",
-    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
     "Code/BMesh Unity.md",
     "GFX/VFX, Shaders.canvas",
     "GFX/Notes/Kino Hatch.md",
@@ -251,9 +240,6 @@
     "GFX/Notes/Amplify LUT Pack.md",
     "Code/digiOBSCURA - A DIY Image Sensor and Digital Camera.md",
     "GFX/Notes/Marching Cubes On GPU.md",
-    "GFX/VFX.md",
-    "GFX/Notes/Proc Char Vfx.md",
-    "GFX/Notes/45 Animated emojis 2D + Bubbles.md",
     "Organisation/Notefiles",
     "Organisation",
     "GFX/Assets.canvas",
