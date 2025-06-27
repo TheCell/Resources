@@ -1,0 +1,4 @@
+---
+up: "[[Link Collection]]"
+---
+
