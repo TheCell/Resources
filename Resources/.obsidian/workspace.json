@@ -56,17 +56,17 @@
             }
           },
           {
-            "id": "82f4e2d1268f3139",
+            "id": "7bfbeba355030605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Deform.md",
+                "file": "Code/Chroma.js.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deform"
+              "title": "Chroma.js"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deform",
+                "query": "blending color",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,12 +215,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82f4e2d1268f3139",
+  "active": "7bfbeba355030605",
   "lastOpenFiles": [
+    "Code/The Secrets of Colour Interpolation.md",
+    "Code/Chroma.js.md",
+    "Code/Chroma.md",
+    "Code/Conv Chain.md",
+    "Code/Notefiles/Pasted image 20250629143547.png",
+    "Code/Notefiles/lerp.png",
+    "Link Collection.md",
+    "Code/Deform.md",
     "Code/spectral.js.md",
     "Code/Notefiles/banner 1.png",
     "Code/Curved-Ruler.md",
-    "Code/Conv Chain.md",
     "Code/Notefiles/Pasted image 20250627102422.png",
     "Code/Blurry.md",
     "Code/Openapi Generator.md",
@@ -233,7 +240,6 @@
     "Unsorted/Notefiles",
     "Unsorted",
     "Tutorials/Tutorials.md",
-    "Link Collection.md",
     "Code/MarkItDown.md",
     "Code/Collision Tutorial nerdyteachers.com.md",
     "Code/Notefiles/Pasted image 20250515212501.png",
@@ -246,16 +252,10 @@
     "Code/Hedera.md",
     "Code/Themes.md",
     "Code/Notefiles/roguelight.svg",
-    "Code/Notefiles/berry.svg",
-    "Code/Notefiles/frameio.svg",
-    "Code/Deform.md",
     "Code/Shader Graph Node.md",
     "Code/Orca.md",
     "Code/patch based texture synthesis.md",
     "Code/Texture Synthesis.md",
-    "Code/p5js.md",
-    "Code/Mathfs.md",
-    "Tutorials/Programming/Vulkan Samples.md",
     "GFX/VFX, Shaders.canvas",
     "Organisation/Notefiles",
     "Organisation",
