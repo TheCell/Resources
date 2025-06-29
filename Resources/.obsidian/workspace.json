@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Curved-Ruler.md",
-                "mode": "source",
+                "file": "Code/Deform.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Curved-Ruler"
+              "title": "Deform"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#processing",
+                "query": "deform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,10 +215,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0541ab0d6b7f0a5",
+  "active": "82f4e2d1268f3139",
   "lastOpenFiles": [
-    "Code/Conv Chain.md",
+    "Code/spectral.js.md",
+    "Code/Notefiles/banner 1.png",
     "Code/Curved-Ruler.md",
+    "Code/Conv Chain.md",
     "Code/Notefiles/Pasted image 20250627102422.png",
     "Code/Blurry.md",
     "Code/Openapi Generator.md",
@@ -246,7 +248,6 @@
     "Code/Notefiles/roguelight.svg",
     "Code/Notefiles/berry.svg",
     "Code/Notefiles/frameio.svg",
-    "Code/Notefiles/pico8.svg",
     "Code/Deform.md",
     "Code/Shader Graph Node.md",
     "Code/Orca.md",
