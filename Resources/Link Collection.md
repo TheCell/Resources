@@ -16,6 +16,7 @@
 [https://aras-p.info/](https://aras-p.info/)
 [https://simonschreibt.de/](https://simonschreibt.de/)
 [https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)
+[https://iquilezles.org/](https://iquilezles.org/)
 
 # Visualized Code
 Easing functions [https://easings.net/#](https://easings.net/#)

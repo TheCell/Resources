@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Chroma.js.md",
+                "file": "Tutorials/Programming/2D distance functions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chroma.js"
+              "title": "2D distance functions"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blending color",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,13 +217,23 @@
   },
   "active": "7bfbeba355030605",
   "lastOpenFiles": [
-    "Code/The Secrets of Colour Interpolation.md",
-    "Code/Chroma.js.md",
-    "Code/Chroma.md",
+    "Tutorials/Programming/Godot 4 Shaders Craft Stunning Visuals.md",
+    "Tutorials/Programming/Get Git Smart Learn Git in Unity, SourceTree, GitHub.md",
+    "Tutorials/Programming/Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev.md",
+    "Tutorials/Programming/Complete Unity 3D Developer Unity 2020.1 Archive Course.md",
+    "Tutorials/Programming/Complete Unity 2D Developer Create Your Own 2D Games Using Unity C Sharp.md",
+    "Tutorials/Programming/Complete Godot 4 2D Code Your Own 2D Games In Godot 4.md",
+    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
+    "Tutorials/Programming/2D distance functions.md",
+    "gfx00.png",
+    "Link Collection.md",
     "Code/Conv Chain.md",
+    "Tutorials/Programming/Unity RPG Core Combat Make Your Own RPG Combat System.md",
+    "Code/Chroma.js.md",
+    "Code/The Secrets of Colour Interpolation.md",
+    "Code/Chroma.md",
     "Code/Notefiles/Pasted image 20250629143547.png",
     "Code/Notefiles/lerp.png",
-    "Link Collection.md",
     "Code/Deform.md",
     "Code/spectral.js.md",
     "Code/Notefiles/banner 1.png",
@@ -234,7 +244,6 @@
     "Code/digiOBSCURA - A DIY Image Sensor and Digital Camera.md",
     "Unsorted/Notes/3D Printed Ceramics.md",
     "Unsorted/Notefiles/Pasted image 20250627101029.png",
-    "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
     "Unsorted/Unsorted.md",
     "Unsorted/Notes",
     "Unsorted/Notefiles",
@@ -244,18 +253,9 @@
     "Code/Collision Tutorial nerdyteachers.com.md",
     "Code/Notefiles/Pasted image 20250515212501.png",
     "Code/Code.md",
-    "Code/Beehave.md",
-    "Code/Shouldly.md",
     "Code/Notefiles/logo_350x84.png",
     "Code/Notefiles/lotus.svg",
     "Code/Notefiles/60907136-d0713000-a246-11e9-97a2-de9cb8ffa8cd.gif",
-    "Code/Hedera.md",
-    "Code/Themes.md",
-    "Code/Notefiles/roguelight.svg",
-    "Code/Shader Graph Node.md",
-    "Code/Orca.md",
-    "Code/patch based texture synthesis.md",
-    "Code/Texture Synthesis.md",
     "GFX/VFX, Shaders.canvas",
     "Organisation/Notefiles",
     "Organisation",
