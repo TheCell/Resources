@@ -5,6 +5,9 @@
 [https://assetstore.unity.com/](https://assetstore.unity.com/)
 [https://www.fab.com/](https://www.fab.com/)
 [https://quaternius.com/](https://quaternius.com/)
+[https://craftpix.net/](https://craftpix.net/)
+[https://opengameart.org/](https://opengameart.org/)
+
 
 # Tutorials etc
 [https://www.redblobgames.com](https://www.redblobgames.com)

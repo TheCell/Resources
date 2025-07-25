@@ -54,23 +54,9 @@
               "icon": "lucide-file",
               "title": "Conv Chain"
             }
-          },
-          {
-            "id": "7bfbeba355030605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutorials/Programming/2D distance functions.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2D distance functions"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,8 +201,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bfbeba355030605",
+  "active": "c66bed8e043d5b15",
   "lastOpenFiles": [
+    "Link Collection.md",
+    "Unsorted/Notes/3D Printed Ceramics.md",
+    "GFX/Notes/RPG and MMO UI 11.md",
+    "GFX/Notes/psx retroshader.md",
+    "GFX/Notes/Particle Pack.md",
+    "GFX/Notes/Mobile Game GUI Pack 02.md",
+    "GFX/Notes/Little Dragons Tiger.md",
+    "GFX/Notes/Isometric Miniature Farm.md",
+    "GFX/Notes/Flat Kit Toon Shading and Water.md",
+    "GFX/Notes/Fantasy UI Borders.md",
+    "GFX/Notes/2D Sci-Fi Weapons Pack.md",
+    "GFX/Notes/2D Pixel RPG Icon Pack.md",
+    "GFX/Notes/40 Cute Portraits.md",
+    "GFX/Assets.canvas",
+    "GFX/GFX.md",
+    "Tutorials/Programming/2D distance functions.md",
     "Tutorials/Programming/Godot 4 Shaders Craft Stunning Visuals.md",
     "Tutorials/Programming/Get Git Smart Learn Git in Unity, SourceTree, GitHub.md",
     "Tutorials/Programming/Finish It! - Tools & Techniques For Staying Motivated & Productive With Game Dev.md",
@@ -224,42 +226,26 @@
     "Tutorials/Programming/Complete Unity 2D Developer Create Your Own 2D Games Using Unity C Sharp.md",
     "Tutorials/Programming/Complete Godot 4 2D Code Your Own 2D Games In Godot 4.md",
     "Tutorials/Programming/Complete Godot 3D Code Your Own 3D Games In Godot 4.md",
-    "Tutorials/Programming/2D distance functions.md",
     "gfx00.png",
-    "Link Collection.md",
     "Code/Conv Chain.md",
     "Tutorials/Programming/Unity RPG Core Combat Make Your Own RPG Combat System.md",
     "Code/Chroma.js.md",
     "Code/The Secrets of Colour Interpolation.md",
-    "Code/Chroma.md",
     "Code/Notefiles/Pasted image 20250629143547.png",
     "Code/Notefiles/lerp.png",
-    "Code/Deform.md",
-    "Code/spectral.js.md",
     "Code/Notefiles/banner 1.png",
-    "Code/Curved-Ruler.md",
     "Code/Notefiles/Pasted image 20250627102422.png",
-    "Code/Blurry.md",
-    "Code/Openapi Generator.md",
-    "Code/digiOBSCURA - A DIY Image Sensor and Digital Camera.md",
-    "Unsorted/Notes/3D Printed Ceramics.md",
     "Unsorted/Notefiles/Pasted image 20250627101029.png",
-    "Unsorted/Unsorted.md",
     "Unsorted/Notes",
     "Unsorted/Notefiles",
     "Unsorted",
-    "Tutorials/Tutorials.md",
-    "Code/MarkItDown.md",
-    "Code/Collision Tutorial nerdyteachers.com.md",
     "Code/Notefiles/Pasted image 20250515212501.png",
-    "Code/Code.md",
     "Code/Notefiles/logo_350x84.png",
     "Code/Notefiles/lotus.svg",
     "Code/Notefiles/60907136-d0713000-a246-11e9-97a2-de9cb8ffa8cd.gif",
     "GFX/VFX, Shaders.canvas",
     "Organisation/Notefiles",
     "Organisation",
-    "GFX/Assets.canvas",
     "Code/Notefiles",
     "Code",
     "Tutorials/UI Series",
