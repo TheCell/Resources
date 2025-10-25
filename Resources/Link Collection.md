@@ -20,6 +20,7 @@
 [https://simonschreibt.de/](https://simonschreibt.de/)
 [https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA](https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA)
 [https://iquilezles.org/](https://iquilezles.org/)
+[https://blog.littlepolygon.com/](https://blog.littlepolygon.com/)
 
 # Visualized Code
 Easing functions [https://easings.net/#](https://easings.net/#)
